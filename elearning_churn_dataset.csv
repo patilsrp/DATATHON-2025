@@ -1,0 +1,1001 @@
+User ID,Enrollment Date,Subscription Plan,Course Completion Rate,Courses Enrolled,Login Frequency (per month),Time Spent per Session (mins),Last Active Date,Forum Participation,Quiz Participation Rate,Assignment Submission Rate,Video Watch Completion Rate,Survey Response (1-5),Feedback Sentiment,Support Ticket Sentiment,Incomplete Courses Count,Engagement_inper,churn,Course Reminder Response,Gamified Progress Engagement,AI Recommendation Click Rate
+U0001,13-04-2022,Basic,49.18,9,9,119.5,04-04-2023,14,91.51,32.69,59.62,2,Positive,N/A,2,22.3,1,Not Clicked,Active,74.6
+U0002,12-03-2023,Basic,50.92,1,21,72,22-11-2023,12,85.45,60.67,91.59,1,Positive,Negative,3,52.56,0,Not Clicked,Active,63.07
+U0003,28-09-2022,Standard,65.16,7,26,98.4,15-09-2023,27,68.32,93.04,28.79,3,Neutral,Positive,1,9.13,0,Not Clicked,Active,42.7
+U0004,17-04-2022,Standard,35.34,7,20,42.6,22-11-2022,32,5.23,83.69,18.55,5,Positive,Positive,2,43.64,0,Clicked,Inactive,90.21
+U0005,13-03-2022,Standard,36.94,4,7,40.2,21-03-2022,42,78.28,99.55,65.17,4,Positive,N/A,3,58.18,0,Clicked,Inactive,65.1
+U0006,02-12-2023,Basic,58.77,9,22,51.3,13-12-2023,22,84.55,2.26,71.26,3,Positive,N/A,0,52.21,0,Not Clicked,Inactive,39.84
+U0007,21-01-2022,Premium,80.34,5,4,82.3,11-12-2022,32,79.91,11.29,68.8,5,Neutral,Neutral,3,33.09,0,Not Clicked,Inactive,8.35
+U0008,07-09-2023,Standard,69.56,4,13,83.5,07-05-2024,42,50.85,60.95,31.93,2,Positive,N/A,4,54.24,0,Not Clicked,Active,29.07
+U0009,02-05-2022,Standard,43.79,7,13,41.3,30-10-2022,17,23.29,82.06,25.22,1,Positive,N/A,4,95.88,1,Clicked,Active,54.37
+U0010,12-04-2023,Premium,54.43,4,10,20.3,20-01-2024,49,84.53,28.52,95.59,1,Negative,Positive,1,20.6,0,Not Clicked,Active,27.56
+U0011,03-08-2022,Premium,33.65,3,18,77.7,10-06-2023,29,72.72,23.92,92.33,5,Positive,Positive,1,65.48,0,Not Clicked,Inactive,22.12
+U0012,27-11-2022,Basic,25.97,9,17,19.8,05-03-2023,25,98.08,78.7,45.73,3,Positive,Positive,4,4.34,0,Clicked,Inactive,52.74
+U0013,04-04-2023,Basic,82.62,8,20,71.5,17-10-2023,15,15.57,5.64,84.62,4,Negative,N/A,4,6.64,0,Not Clicked,Active,16.98
+U0014,29-03-2022,Premium,41.23,1,20,84.7,09-11-2022,12,22.57,36.94,45.23,2,Positive,N/A,2,55.18,0,Not Clicked,Active,80.04
+U0015,08-01-2023,Standard,34.22,7,13,85.6,06-12-2023,38,21.18,50.58,42.44,5,Positive,Negative,4,10.49,0,Clicked,Active,48.44
+U0016,10-04-2022,Basic,75.33,9,17,91.6,21-07-2022,32,79.25,56.03,15.68,2,Positive,Positive,1,2.23,1,Clicked,Active,57.39
+U0017,26-10-2023,Standard,69.44,8,22,105.4,08-02-2024,25,18.69,72.86,42.64,1,Neutral,Negative,4,17.15,0,Not Clicked,Inactive,14.74
+U0018,11-05-2022,Premium,70.66,8,4,62.5,10-05-2023,47,6.67,35.48,53.74,4,Positive,N/A,1,56.48,0,Clicked,Active,32.46
+U0019,24-10-2023,Standard,38.31,6,1,89,20-12-2023,0,99.86,61.27,2.25,2,Neutral,N/A,0,70.33,0,Not Clicked,Inactive,41.01
+U0020,05-11-2022,Standard,38.61,4,1,76.2,21-01-2023,48,2.48,58.54,44.41,5,Positive,Positive,4,20.25,0,Clicked,Active,80.82
+U0021,10-12-2022,Premium,37.66,8,15,26.5,22-02-2023,37,83.52,54.76,78.14,4,Positive,Negative,1,66.83,0,Clicked,Inactive,77.02
+U0022,07-05-2023,Basic,33.9,3,13,8,17-06-2023,1,36.54,64.05,68,3,Neutral,Positive,3,18.25,0,Not Clicked,Inactive,22.3
+U0023,18-02-2023,Basic,72.46,9,17,37.7,07-01-2024,48,84.16,25.94,63.52,5,Negative,N/A,2,61.35,0,Not Clicked,Inactive,61.62
+U0024,21-01-2023,Standard,87.84,2,24,55.9,20-07-2023,5,55.46,8.46,90.96,2,Positive,Negative,1,41.2,0,Clicked,Active,24.35
+U0025,11-07-2022,Premium,77.95,2,26,76,12-08-2022,45,90.16,11.93,1.8,4,Neutral,Positive,4,65.38,1,Not Clicked,Active,98.82
+U0026,04-10-2022,Basic,83.37,7,8,102.7,13-12-2022,49,92.62,22.46,55.7,5,Positive,N/A,4,99.51,0,Clicked,Active,95.21
+U0027,10-06-2022,Standard,52.38,4,18,27.6,04-08-2022,37,0.91,50.02,78.73,4,Positive,Positive,0,93.78,0,Clicked,Active,56.33
+U0028,05-04-2023,Standard,72.33,8,27,19.4,18-07-2023,41,7.54,84.04,54.13,4,Positive,N/A,3,0.43,0,Clicked,Inactive,69.89
+U0029,10-11-2022,Standard,48.34,9,13,115.8,28-05-2023,23,25.04,70.13,32.39,4,Neutral,Positive,1,88.54,0,Clicked,Inactive,80.14
+U0030,22-01-2022,Standard,62.04,7,23,17.4,02-05-2022,17,66.93,78.9,13.63,2,Positive,Negative,3,6.65,0,Not Clicked,Active,72.1
+U0031,10-09-2022,Premium,58.53,5,14,60,23-05-2023,26,88.83,35.1,88.76,5,Positive,N/A,0,95.3,0,Not Clicked,Active,69.98
+U0032,15-07-2023,Standard,34.15,8,8,72.3,16-05-2024,40,45.99,40.47,47.08,1,Positive,Neutral,2,28.18,1,Not Clicked,Active,95.86
+U0033,20-04-2023,Standard,50.97,4,8,67.3,02-07-2023,7,60.7,39.37,87.81,1,Positive,Neutral,3,38.2,0,Not Clicked,Inactive,59.65
+U0034,28-02-2022,Standard,97.11,2,27,14.9,17-08-2022,27,18.85,19.19,58.59,2,Negative,Neutral,0,9.16,0,Clicked,Inactive,63.63
+U0035,26-05-2023,Standard,39.89,6,26,11.6,15-10-2023,9,80.5,6.12,67.42,2,Negative,Positive,1,11.23,0,Not Clicked,Active,84.93
+U0036,13-11-2023,Basic,30.7,9,15,17.1,26-04-2024,16,96.73,59.09,80.43,4,Neutral,Neutral,2,72.67,0,Not Clicked,Active,66.99
+U0037,21-04-2023,Basic,53.49,1,27,72.3,06-01-2024,28,26.86,98.92,65.92,5,Positive,N/A,4,94.43,0,Not Clicked,Inactive,73.29
+U0038,01-12-2023,Standard,83.23,7,13,67.6,08-07-2024,5,49.48,16.68,39.81,5,Positive,N/A,0,61.07,0,Not Clicked,Inactive,23.42
+U0039,09-07-2022,Basic,66.57,9,7,31.9,29-09-2022,13,8.61,4.67,51.36,3,Neutral,N/A,4,71.59,0,Not Clicked,Active,37.13
+U0040,18-11-2023,Basic,74.48,9,5,78.3,17-05-2024,21,55.91,77.95,80.3,3,Negative,Neutral,2,76.2,0,Clicked,Inactive,14.73
+U0041,17-07-2023,Standard,35.18,3,17,99.3,18-05-2024,5,50.28,25.26,37.37,1,Positive,N/A,0,26.28,0,Not Clicked,Inactive,50.58
+U0042,21-07-2023,Standard,69.52,5,28,9.8,30-07-2023,25,14.44,82.96,38.81,3,Neutral,N/A,0,4.52,1,Not Clicked,Active,45.57
+U0043,01-09-2022,Basic,45.88,8,25,62.3,04-09-2022,38,44.21,70.39,9.57,3,Negative,Neutral,2,0.19,0,Not Clicked,Active,99.72
+U0044,20-05-2023,Standard,86.74,8,29,84.3,04-05-2024,11,33.41,94.57,91.46,1,Neutral,Positive,1,35.06,0,Clicked,Active,61.12
+U0045,11-05-2022,Standard,70.34,4,16,34,11-04-2023,34,52.18,40.89,9.1,1,Positive,Neutral,0,24.15,1,Not Clicked,Active,78.64
+U0046,30-04-2023,Basic,35.91,1,23,40.4,15-02-2024,13,58.57,66.2,64.82,3,Positive,N/A,2,6.23,1,Not Clicked,Active,33.4
+U0047,09-10-2023,Premium,25.17,1,2,75.6,15-07-2024,21,0.85,46.49,41.32,5,Positive,Neutral,3,17.95,1,Clicked,Active,83.15
+U0048,21-01-2022,Standard,23.41,4,22,108.3,23-08-2022,22,76.1,63.06,40.56,3,Positive,N/A,4,12.45,0,Not Clicked,Active,61.51
+U0049,16-06-2022,Standard,49.71,6,18,98.1,21-09-2022,47,71.3,44.96,67.96,4,Positive,Positive,0,91.49,1,Clicked,Active,69.7
+U0050,01-10-2022,Standard,41.27,8,17,72.1,09-01-2023,6,36.63,18.86,6.71,4,Positive,N/A,3,14.03,0,Clicked,Active,29.44
+U0051,23-01-2023,Premium,71.69,6,7,89,31-01-2023,39,5.29,50.79,59.37,4,Neutral,Neutral,0,53.76,0,Clicked,Active,54.86
+U0052,24-08-2023,Standard,59.95,9,13,47,23-10-2023,49,75.49,52.86,77.2,2,Positive,Negative,1,59.31,0,Not Clicked,Inactive,63.4
+U0053,12-11-2022,Standard,41.28,9,18,78.7,16-09-2023,24,95.52,81.06,82.82,4,Positive,Positive,2,54.35,1,Clicked,Inactive,58.91
+U0054,14-01-2022,Standard,31.94,2,29,58.6,08-06-2022,12,24.02,73.55,17.05,5,Neutral,Positive,0,9.91,0,Clicked,Active,91.52
+U0055,30-08-2022,Basic,30.18,1,14,26.8,31-10-2022,20,32.35,66.38,89.74,2,Neutral,N/A,2,31.88,0,Clicked,Active,89.83
+U0056,12-12-2022,Basic,89.17,2,18,85.7,11-04-2023,40,18.38,11.34,65.61,2,Neutral,N/A,0,5.13,0,Clicked,Inactive,97.1
+U0057,19-07-2023,Standard,39.48,5,13,69,29-02-2024,9,57.69,72.06,88.19,4,Positive,Neutral,1,39.57,0,Clicked,Active,66.74
+U0058,06-12-2022,Standard,72.14,4,11,46.2,20-03-2023,8,15.48,50.03,48.53,3,Neutral,Positive,1,18.86,1,Clicked,Inactive,97.19
+U0059,02-04-2022,Standard,84.85,4,21,109.8,17-12-2022,14,35.62,89.41,54.2,1,Positive,Neutral,3,56.16,0,Not Clicked,Active,83.25
+U0060,02-01-2023,Basic,69.13,9,21,7.4,16-12-2023,1,69.7,91.99,91.9,3,Positive,Positive,1,69.28,0,Not Clicked,Inactive,27.08
+U0061,31-03-2023,Standard,88.77,8,16,41.3,10-12-2023,24,56.01,5.52,89.99,3,Neutral,Positive,2,53.21,1,Clicked,Active,42.74
+U0062,04-03-2023,Basic,51.39,6,23,11.5,26-09-2023,12,38.65,82.06,44.82,2,Positive,N/A,1,43.42,0,Clicked,Inactive,23.84
+U0063,24-05-2023,Standard,96.5,1,17,93.2,20-06-2023,33,42.02,3.77,27.44,2,Positive,N/A,0,38.73,0,Not Clicked,Inactive,0.42
+U0064,04-02-2022,Standard,30.65,2,8,85.7,23-07-2022,33,56.21,36.72,39.32,2,Positive,Positive,1,84.17,1,Clicked,Inactive,18.8
+U0065,25-07-2022,Standard,28.17,6,19,43.1,25-06-2023,34,0.59,54.23,38.78,5,Positive,Neutral,2,21.94,1,Not Clicked,Inactive,0.41
+U0066,22-03-2022,Standard,72.7,2,20,82.7,05-06-2022,37,7.85,14.81,28.69,5,Positive,Positive,0,73.42,1,Not Clicked,Active,71.98
+U0067,16-07-2023,Standard,95.43,5,15,50.5,08-11-2023,2,88.13,74.63,26.86,1,Neutral,Positive,3,75.75,0,Clicked,Active,42.55
+U0068,23-01-2023,Standard,84.71,5,9,92,01-04-2023,41,7.79,0.84,86.11,2,Positive,Positive,3,41.92,0,Clicked,Active,31.26
+U0069,02-01-2022,Standard,26.11,6,20,57.2,21-12-2022,5,70.68,16.86,6.99,4,Negative,Neutral,3,29.73,0,Not Clicked,Active,76.17
+U0070,25-01-2023,Basic,42.35,6,10,52.4,15-09-2023,47,92,58.08,67.76,2,Positive,Positive,0,47.05,0,Clicked,Active,83.25
+U0071,20-07-2023,Standard,94.43,6,12,112.5,20-07-2023,48,27.07,71.44,17.28,5,Positive,Neutral,3,9.32,0,Clicked,Inactive,97.53
+U0072,16-04-2022,Standard,40.24,2,21,33.9,29-09-2022,18,37.05,91.66,34.45,2,Positive,Positive,1,4.59,0,Clicked,Inactive,64.2
+U0073,22-04-2023,Standard,82.49,3,23,18.9,07-04-2024,2,56.89,70.55,6.15,5,Positive,Positive,0,11.16,1,Not Clicked,Active,46.15
+U0074,04-12-2023,Standard,86.01,6,20,72.2,08-07-2024,17,88.17,67.18,27,2,Neutral,Positive,0,18.71,0,Not Clicked,Active,30.53
+U0075,06-02-2023,Premium,59.64,8,1,116.5,05-11-2023,38,94.19,39.43,76.84,4,Positive,N/A,0,50.42,0,Clicked,Active,22.23
+U0076,31-12-2023,Premium,50.91,1,25,48.5,06-09-2024,8,73.96,0.13,88.5,1,Positive,N/A,4,84.91,0,Not Clicked,Inactive,21.29
+U0077,10-07-2023,Basic,56.01,1,20,12.1,20-06-2024,11,8.66,12.02,22.15,4,Neutral,N/A,2,23.56,0,Clicked,Active,40.92
+U0078,11-06-2022,Basic,38.16,2,9,44,20-05-2023,4,66.92,53.46,46.35,5,Positive,Neutral,4,93.52,1,Not Clicked,Inactive,99.18
+U0079,21-07-2022,Standard,91.15,6,22,63.2,10-01-2023,2,41.03,67.51,47.03,3,Neutral,Neutral,4,95.49,0,Clicked,Inactive,0.09
+U0080,27-09-2022,Basic,56.05,9,15,23.6,15-03-2023,10,47.07,41.74,87.36,4,Neutral,Neutral,4,95.89,0,Not Clicked,Inactive,19.72
+U0081,28-09-2022,Standard,90.6,4,1,80.7,31-05-2023,29,4.91,73.07,76.28,2,Positive,Positive,2,83.76,0,Not Clicked,Active,18.84
+U0082,01-04-2023,Premium,28.46,3,12,119.7,29-06-2023,3,19.11,52.19,51.31,1,Positive,N/A,4,36.38,0,Clicked,Active,71.71
+U0083,07-04-2023,Basic,99.06,8,3,57,25-05-2023,4,79.05,7.42,67.07,2,Positive,Neutral,3,7.27,0,Clicked,Inactive,35.25
+U0084,28-12-2023,Basic,55.46,9,11,45.8,16-10-2024,0,45.4,19.2,84.74,2,Neutral,Neutral,0,56.88,1,Clicked,Inactive,45.73
+U0085,09-09-2022,Basic,23.83,5,2,51.1,05-02-2023,26,30.17,84,0.95,4,Positive,Neutral,0,55.87,0,Clicked,Inactive,14.86
+U0086,03-12-2023,Standard,23.04,9,16,18.2,12-04-2024,27,38.4,72.49,40.29,1,Positive,Neutral,1,85,0,Clicked,Active,40.5
+U0087,23-10-2022,Standard,79.7,2,9,106.6,20-12-2022,28,85.44,89.48,90.72,3,Positive,N/A,3,99.6,0,Not Clicked,Inactive,10.32
+U0088,26-12-2023,Basic,72.72,3,15,52.7,13-11-2024,17,74.9,11.76,74.03,2,Positive,Neutral,2,50.82,1,Not Clicked,Active,53.3
+U0089,21-12-2023,Premium,84.17,7,12,49.5,06-07-2024,11,27.23,99.02,54.28,1,Positive,Negative,0,34.52,1,Clicked,Inactive,9.79
+U0090,04-12-2022,Standard,28.43,7,1,80.9,06-07-2023,12,11.75,20.94,52.96,3,Neutral,Neutral,4,18.59,0,Not Clicked,Inactive,79.05
+U0091,22-02-2022,Basic,22.85,6,13,55.8,11-04-2022,40,25.2,1.18,34.78,2,Positive,N/A,1,0.48,0,Not Clicked,Inactive,56.66
+U0092,05-08-2022,Standard,60.69,6,14,79.5,24-03-2023,1,92.08,99.74,52.05,1,Negative,Neutral,1,50.91,1,Not Clicked,Inactive,72.4
+U0093,07-07-2022,Standard,51.01,2,25,12.1,10-03-2023,36,58.16,28.11,65.54,4,Neutral,Negative,0,55.55,1,Clicked,Active,41.85
+U0094,15-01-2023,Basic,56.96,6,25,98.6,10-09-2023,44,53.35,66.8,41.84,2,Positive,Positive,3,82.49,1,Clicked,Inactive,38.15
+U0095,08-05-2023,Basic,99.33,4,8,113.2,22-10-2023,15,59.64,17.67,71.42,2,Positive,N/A,1,50.46,1,Clicked,Inactive,9.82
+U0096,10-02-2022,Basic,97.66,3,8,79.6,29-03-2022,47,36.6,58.02,86.12,1,Positive,Positive,0,91.65,0,Clicked,Active,52.39
+U0097,06-06-2022,Basic,95.39,2,27,114.8,26-07-2022,23,80.71,90.4,15.47,2,Neutral,Neutral,3,62.81,0,Not Clicked,Inactive,51.45
+U0098,15-01-2022,Premium,82.71,1,12,22.4,09-11-2022,34,52.33,32.02,45.15,3,Positive,N/A,0,84.03,1,Not Clicked,Active,46.81
+U0099,06-03-2022,Premium,48.39,5,1,59.9,11-06-2022,21,11.67,67.03,40.8,2,Negative,N/A,0,14.83,1,Clicked,Inactive,74.05
+U0100,05-06-2023,Basic,52.97,2,11,74.2,06-01-2024,35,12.91,18.79,68.75,5,Neutral,Neutral,3,85.53,0,Clicked,Active,83.25
+U0101,10-12-2022,Basic,63.97,2,8,71.9,04-06-2023,10,53.69,62.48,24.99,3,Positive,N/A,3,67.51,0,Not Clicked,Inactive,75.08
+U0102,09-05-2022,Basic,86.44,7,10,51.2,27-07-2022,45,93.66,33.65,64.03,1,Neutral,Positive,3,17.02,1,Not Clicked,Active,14.39
+U0103,10-10-2023,Basic,25.5,8,19,43.9,11-04-2024,28,30.84,21.12,87.75,3,Positive,N/A,0,18.98,0,Not Clicked,Active,62.21
+U0104,17-04-2023,Premium,53.94,8,11,19.6,13-05-2023,34,86.95,31.32,41.81,5,Neutral,Negative,1,92.65,1,Clicked,Active,8.03
+U0105,04-03-2022,Basic,26.61,4,7,50.1,14-09-2022,47,76.41,17.88,91.1,5,Positive,Neutral,2,3.22,0,Not Clicked,Active,69.46
+U0106,19-05-2022,Basic,61.17,1,11,23.7,18-12-2022,14,24.78,90.19,99.32,2,Positive,N/A,2,46.25,0,Not Clicked,Inactive,38.18
+U0107,14-05-2023,Basic,91.91,7,17,89.5,19-04-2024,30,3.63,39.72,10.61,2,Positive,N/A,0,31.35,0,Not Clicked,Active,13.25
+U0108,16-08-2023,Standard,82.6,1,1,29,07-12-2023,41,10.18,24.53,23.31,4,Neutral,Positive,0,66.51,0,Clicked,Inactive,86.21
+U0109,27-01-2023,Basic,38.23,4,26,11.7,25-09-2023,40,72.85,44.84,95.04,3,Positive,N/A,1,83.96,0,Clicked,Inactive,61.4
+U0110,06-11-2023,Standard,98.08,8,29,68.5,08-03-2024,42,19.97,32.05,95.83,4,Negative,Positive,3,36.04,0,Clicked,Inactive,35.47
+U0111,23-02-2023,Basic,73.39,2,21,73.5,24-12-2023,15,37.13,74.44,9.77,5,Positive,N/A,0,42.69,1,Not Clicked,Inactive,3.07
+U0112,16-10-2022,Standard,20.83,6,21,105.3,30-12-2022,9,50.17,97.12,1.5,2,Positive,Negative,4,98.19,1,Not Clicked,Active,53.73
+U0113,14-01-2023,Standard,40.43,6,8,71.4,20-11-2023,48,72.55,43.8,16.11,2,Positive,Positive,3,78.39,0,Not Clicked,Active,92.32
+U0114,05-05-2023,Basic,40.86,9,23,44.7,11-03-2024,31,11.32,86.1,99.6,2,Positive,Negative,0,89.72,0,Not Clicked,Active,59.64
+U0115,19-08-2022,Standard,25.54,5,24,97.3,02-03-2023,1,40.64,56.59,18,1,Positive,Neutral,4,43.88,0,Clicked,Active,97.17
+U0116,10-02-2022,Premium,96.79,4,6,67.1,26-01-2023,23,48.51,15.72,50.25,5,Positive,Neutral,1,23.41,0,Clicked,Inactive,13.65
+U0117,28-01-2022,Premium,58.26,5,22,14.1,12-03-2022,22,54.08,69.06,84.84,2,Neutral,Positive,4,41.19,0,Clicked,Active,56.83
+U0118,15-05-2022,Standard,91.67,5,18,70.1,16-11-2022,1,81.84,51.34,2.04,5,Positive,Positive,0,71.61,0,Clicked,Inactive,79.81
+U0119,20-07-2022,Standard,45.78,8,6,109.4,27-06-2023,37,17.17,65.06,60.45,2,Positive,N/A,2,10.94,0,Not Clicked,Active,52.55
+U0120,02-02-2022,Premium,30.02,8,5,50.6,05-10-2022,30,80.78,88.97,27.7,3,Positive,Positive,0,27.05,0,Not Clicked,Inactive,9.11
+U0121,17-02-2022,Standard,57.95,2,13,39.1,11-05-2022,39,69.29,44.04,86.23,5,Neutral,Neutral,2,4.66,0,Clicked,Active,58.29
+U0122,18-05-2023,Basic,29.12,7,19,21.5,10-12-2023,25,55.59,90.12,28.35,4,Positive,Negative,1,43.23,1,Not Clicked,Active,61.17
+U0123,11-02-2023,Premium,58.88,8,22,22.4,11-07-2023,28,69.95,75.07,68.68,1,Positive,Positive,1,82.74,0,Not Clicked,Inactive,72.87
+U0124,28-07-2023,Basic,93.62,6,8,54.8,30-12-2023,2,41.2,48.86,67.42,4,Positive,Neutral,3,2.47,1,Clicked,Active,76.12
+U0125,29-12-2023,Standard,61.66,5,9,73.5,13-01-2024,13,13.84,60.32,22.15,5,Neutral,Neutral,3,67.53,1,Clicked,Inactive,77.08
+U0126,09-04-2022,Basic,69.32,9,17,14.3,20-09-2022,24,66.58,32.56,3.48,2,Neutral,Negative,2,93.25,1,Clicked,Active,66.34
+U0127,15-11-2023,Basic,32.53,3,3,113.1,07-04-2024,47,52.47,98.36,40.92,5,Positive,Neutral,2,23.69,1,Clicked,Active,21.58
+U0128,27-12-2023,Basic,23.5,4,19,91.8,01-02-2024,0,63.94,66.74,28.92,1,Positive,Neutral,1,69.36,0,Not Clicked,Inactive,40.42
+U0129,01-07-2023,Standard,28.86,9,11,72.5,28-05-2024,2,33.8,4.38,80.9,5,Neutral,Neutral,4,97.51,0,Clicked,Active,77.61
+U0130,05-09-2023,Basic,67.88,6,24,100.3,19-10-2023,25,90.69,32.66,80.04,2,Negative,N/A,2,96.23,0,Clicked,Inactive,95.34
+U0131,07-04-2023,Basic,27.6,8,17,14.2,29-10-2023,17,58.74,62.33,45.7,4,Neutral,Positive,2,23.49,1,Not Clicked,Active,7.89
+U0132,05-10-2023,Basic,50.08,7,21,59.8,05-12-2023,8,8.54,5.63,60.65,3,Negative,N/A,4,10.03,1,Not Clicked,Inactive,53.55
+U0133,05-01-2022,Standard,64.01,2,19,77.5,26-12-2022,37,44.98,2.39,60.43,4,Neutral,Negative,3,14.83,1,Clicked,Active,31.25
+U0134,06-08-2022,Premium,51.09,3,2,100.3,09-06-2023,22,75.64,45,82.72,2,Neutral,N/A,3,70.2,0,Not Clicked,Active,22.54
+U0135,18-05-2023,Standard,33.09,1,8,95.1,05-06-2023,20,79.41,33.27,42.5,2,Positive,Neutral,2,72.58,1,Clicked,Active,50.58
+U0136,02-02-2023,Standard,41.9,9,19,36.9,01-02-2024,0,49.46,43.83,27.54,1,Positive,Neutral,3,67.42,0,Clicked,Active,60.61
+U0137,28-01-2023,Premium,94.27,7,7,113.2,23-11-2023,20,89.47,26.27,26.5,5,Positive,N/A,3,33.61,0,Not Clicked,Active,0.98
+U0138,26-07-2022,Standard,74.08,1,28,19.3,01-08-2022,26,26.77,16.47,53.62,5,Neutral,Positive,3,16.98,1,Clicked,Inactive,78.02
+U0139,15-01-2022,Basic,59.68,3,27,105.6,20-09-2022,41,41.06,68.91,44.91,4,Negative,Positive,1,58.08,0,Not Clicked,Inactive,81.99
+U0140,08-07-2023,Basic,21.02,4,17,116.7,01-11-2023,5,89.86,51.46,44.01,3,Neutral,Positive,0,48.37,1,Clicked,Active,96.55
+U0141,06-04-2023,Basic,99.39,4,6,25.4,12-06-2023,43,89.63,20.02,9.11,3,Positive,N/A,2,72.88,0,Clicked,Active,18.06
+U0142,22-11-2023,Basic,73.72,5,19,88,25-12-2023,35,68.57,31.96,71.86,1,Positive,Negative,2,44.14,1,Not Clicked,Active,59.46
+U0143,29-07-2023,Standard,45.35,3,24,9.6,07-02-2024,27,85.9,59.18,21.37,2,Positive,Neutral,1,33.86,0,Clicked,Active,42.66
+U0144,29-08-2022,Standard,90.34,3,6,51.6,19-07-2023,44,8.88,7.22,19.7,1,Positive,N/A,0,29.35,1,Not Clicked,Active,33.48
+U0145,18-07-2023,Basic,40.67,1,28,64.4,10-09-2023,16,86.5,14.75,41.28,5,Neutral,Neutral,0,21.15,1,Not Clicked,Active,56.56
+U0146,06-04-2022,Standard,63.52,7,2,71.8,27-12-2022,39,32.06,7.32,22.78,2,Negative,N/A,1,26.57,1,Not Clicked,Inactive,78.24
+U0147,30-04-2023,Standard,70.89,1,6,112.6,10-06-2023,2,17.83,81.23,58.39,1,Positive,Neutral,4,9.48,0,Not Clicked,Inactive,2.31
+U0148,11-02-2023,Basic,37.69,2,23,82.3,04-12-2023,11,23.94,75.24,37.15,4,Positive,N/A,4,34.69,1,Clicked,Active,96.94
+U0149,19-08-2022,Premium,98.27,4,5,60.3,06-04-2023,38,41.8,75.33,44.89,5,Neutral,Positive,0,3.66,0,Not Clicked,Active,80.99
+U0150,17-10-2023,Standard,79.86,4,19,98.1,26-10-2023,11,25.12,71.63,53.72,3,Positive,Positive,4,18.64,0,Not Clicked,Inactive,75.12
+U0151,20-06-2022,Basic,64.63,5,20,114.3,12-06-2023,1,32.06,66.94,20.35,1,Neutral,Neutral,4,74.68,0,Not Clicked,Active,76.04
+U0152,25-06-2023,Standard,34.45,2,4,7.5,30-10-2023,45,13.5,47.7,15.58,5,Positive,Neutral,4,32.55,1,Not Clicked,Inactive,38.91
+U0153,05-02-2022,Standard,24.31,4,22,118,02-08-2022,21,29.62,64.23,88.04,5,Positive,Negative,0,66.82,0,Not Clicked,Inactive,75.16
+U0154,09-06-2023,Standard,45.6,1,26,14.9,18-12-2023,22,57.23,3.84,43.37,3,Positive,Neutral,4,71.69,1,Clicked,Active,38.68
+U0155,09-06-2022,Standard,80.25,2,17,98.7,08-09-2022,29,44.19,62.15,41.21,3,Positive,Positive,2,58.12,1,Not Clicked,Active,89.87
+U0156,30-11-2023,Standard,41.55,1,11,37.2,17-07-2024,4,34.67,77.79,3.56,3,Positive,Neutral,0,95.87,0,Clicked,Inactive,17.72
+U0157,31-08-2022,Standard,63.16,4,4,20.2,16-11-2022,8,74.65,50.04,49.8,1,Positive,Neutral,1,2.14,1,Clicked,Inactive,29.23
+U0158,27-03-2022,Basic,78.24,4,26,55.6,19-06-2022,20,89.35,35.75,55.42,3,Positive,Positive,4,73.87,0,Not Clicked,Active,55.13
+U0159,01-08-2023,Basic,28.64,7,13,79.1,30-08-2023,10,75.68,27.74,55.88,4,Positive,Neutral,3,95.88,1,Clicked,Inactive,31.92
+U0160,13-11-2023,Basic,74.82,9,20,48.8,12-06-2024,4,33.2,64.28,70.7,5,Positive,Neutral,0,86.23,0,Clicked,Active,42.42
+U0161,11-07-2023,Standard,27.35,9,26,11.3,28-08-2023,34,74.44,69.28,17.75,3,Positive,Neutral,1,16.79,0,Clicked,Active,49.24
+U0162,28-07-2023,Basic,97.21,5,17,73.9,17-04-2024,26,15.2,87.1,25.22,5,Positive,Positive,2,32.68,0,Not Clicked,Inactive,85.64
+U0163,08-10-2023,Premium,59.07,1,9,108.8,29-02-2024,48,13.03,34.23,81.07,2,Neutral,N/A,1,17.25,0,Clicked,Inactive,52.32
+U0164,28-01-2022,Standard,32.05,1,4,49.1,06-04-2022,1,34.56,76.98,94.72,2,Negative,Negative,4,60.13,0,Not Clicked,Inactive,36.25
+U0165,12-09-2023,Premium,47.39,6,23,29.9,08-11-2023,23,80.77,56.14,13.59,3,Positive,Positive,3,71.22,0,Clicked,Inactive,24.77
+U0166,10-07-2023,Premium,53.07,2,28,55.9,10-01-2024,30,24.63,88.28,49.76,5,Positive,Negative,4,31.71,0,Clicked,Active,40.87
+U0167,06-12-2022,Premium,80.65,8,14,10.6,05-02-2023,32,6.33,52.78,21.42,2,Positive,N/A,1,53.95,0,Clicked,Active,51.57
+U0168,27-11-2022,Premium,79.47,9,19,99.4,30-09-2023,38,13.17,51.76,6.01,3,Positive,Neutral,0,69.09,0,Not Clicked,Active,74.61
+U0169,02-10-2023,Standard,68.96,4,26,100,23-07-2024,29,85.87,57.79,32.55,5,Neutral,N/A,3,42.13,1,Clicked,Active,12.1
+U0170,21-05-2023,Standard,28.47,5,28,72.6,02-11-2023,45,63.38,74.93,14.37,3,Neutral,Positive,3,85.4,0,Not Clicked,Inactive,22.16
+U0171,14-12-2022,Basic,32.13,8,3,45.6,02-06-2023,36,25.32,96.47,70.99,5,Neutral,N/A,1,77.15,1,Not Clicked,Active,37.97
+U0172,18-04-2023,Basic,27.5,3,14,97,19-06-2023,27,55.53,7.36,53.37,2,Positive,Neutral,4,6.47,0,Not Clicked,Inactive,36.04
+U0173,19-08-2022,Standard,66.17,5,8,68.8,12-01-2023,30,52.76,5.34,14.38,3,Positive,Positive,1,62.11,0,Not Clicked,Inactive,39.17
+U0174,09-07-2022,Standard,90.17,3,24,100,10-05-2023,10,65.54,93.76,0.92,2,Negative,Neutral,3,23.53,0,Clicked,Active,79.35
+U0175,13-08-2022,Basic,54.7,3,27,77.6,20-01-2023,22,23.32,52.99,80.82,3,Positive,N/A,1,55.75,0,Not Clicked,Active,32.42
+U0176,20-01-2023,Standard,32.87,3,28,95.2,09-06-2023,1,86.44,61.49,17.62,1,Positive,N/A,3,95.69,0,Not Clicked,Inactive,50.19
+U0177,12-01-2023,Premium,64.64,7,1,73.8,11-12-2023,39,30.94,48.24,60.62,2,Negative,Neutral,4,87.91,0,Not Clicked,Inactive,62.39
+U0178,10-10-2022,Standard,84.94,7,10,52.6,14-01-2023,40,69.41,9.37,33.69,2,Neutral,Positive,0,40.45,1,Not Clicked,Inactive,23.22
+U0179,25-09-2023,Standard,79.34,7,18,115.2,02-05-2024,26,1.61,76.81,58.55,4,Neutral,Neutral,0,29.15,1,Not Clicked,Active,71.87
+U0180,20-09-2023,Premium,90.52,8,16,67.2,01-11-2023,34,37.27,74.72,31.57,2,Positive,Positive,1,23.44,0,Not Clicked,Active,54.71
+U0181,16-09-2022,Premium,42.23,5,8,74.6,04-07-2023,1,35.17,31.17,8.69,5,Positive,Positive,3,53.25,1,Clicked,Active,44.68
+U0182,25-12-2022,Standard,35.52,5,1,30.4,11-04-2023,38,54.35,30.62,22.3,3,Positive,Neutral,0,11.42,0,Not Clicked,Active,80.98
+U0183,11-12-2023,Premium,90.39,4,12,76.9,01-09-2024,36,7.27,83.78,18.81,1,Neutral,N/A,3,54.93,0,Not Clicked,Inactive,24.35
+U0184,01-04-2023,Premium,72.6,7,8,70.7,04-07-2023,20,79.01,7.24,42.8,5,Positive,Negative,4,0.13,0,Not Clicked,Inactive,88.32
+U0185,15-02-2023,Premium,44.87,4,24,26.3,03-11-2023,4,21.78,88.11,65.83,5,Neutral,Positive,1,32.38,1,Clicked,Active,56.1
+U0186,11-10-2023,Basic,79.39,2,16,11.9,18-08-2024,44,67.7,25.67,26.38,5,Neutral,Neutral,3,21.99,1,Not Clicked,Active,60.92
+U0187,14-11-2022,Standard,85.21,4,18,74.5,23-01-2023,20,80.32,59.3,1.21,5,Positive,N/A,1,97.12,1,Not Clicked,Active,87.51
+U0188,08-11-2023,Basic,69.2,8,4,92.8,13-06-2024,28,56.19,93.6,51.89,1,Positive,N/A,3,72.72,0,Clicked,Inactive,81.76
+U0189,13-08-2022,Basic,75.03,9,6,65.2,02-09-2022,19,74.09,67.81,60.58,4,Positive,Negative,3,34.97,0,Not Clicked,Active,60.16
+U0190,22-08-2022,Standard,50.02,3,12,31.1,21-11-2022,37,66.19,41.44,96.29,2,Neutral,N/A,4,9.28,1,Clicked,Inactive,75.32
+U0191,15-11-2023,Standard,63.1,7,27,81.7,20-03-2024,19,35.55,68.95,58.95,5,Neutral,N/A,1,51.68,0,Not Clicked,Active,43.33
+U0192,26-10-2023,Premium,61.93,9,9,14.2,13-01-2024,49,80.89,34.4,47.12,2,Neutral,Positive,2,21.34,0,Clicked,Inactive,54.74
+U0193,09-01-2023,Basic,87.84,4,15,55.8,16-11-2023,24,29.47,27.73,57.34,2,Positive,Neutral,3,53.64,0,Clicked,Active,6.21
+U0194,03-11-2023,Premium,87.2,3,16,23.8,27-06-2024,1,57.12,99.67,92.79,5,Positive,N/A,3,83.54,0,Clicked,Active,8.99
+U0195,31-08-2023,Standard,86.61,5,24,26.2,28-02-2024,31,74.54,75.08,82.84,4,Neutral,Neutral,0,61.58,0,Not Clicked,Inactive,82.94
+U0196,17-04-2023,Standard,20.88,1,12,28.3,11-05-2023,25,37.9,64.47,32.3,2,Positive,Positive,1,63.38,0,Clicked,Active,5.97
+U0197,21-08-2022,Premium,79.96,3,24,49.5,23-01-2023,5,30.28,35.53,23.73,3,Neutral,Neutral,2,54.1,0,Not Clicked,Active,16.94
+U0198,23-11-2023,Standard,80.69,8,23,10.9,27-11-2023,40,45.93,4.92,26.26,2,Neutral,Negative,4,92.73,0,Not Clicked,Active,79.58
+U0199,23-04-2022,Basic,74.27,8,14,50.7,20-08-2022,2,81.8,3.11,50.44,5,Positive,N/A,2,93.19,0,Not Clicked,Active,0.11
+U0200,12-05-2023,Premium,80.5,4,13,63.8,12-02-2024,32,92.99,55.42,74.4,1,Positive,Neutral,4,51.27,0,Clicked,Active,28.24
+U0201,18-03-2023,Basic,87.36,2,25,60.6,04-04-2023,0,54.51,76.2,50.32,2,Positive,Neutral,2,30.58,0,Not Clicked,Inactive,58.4
+U0202,18-07-2023,Basic,57.63,8,2,49,31-01-2024,4,66.15,53.74,6.78,4,Positive,N/A,2,45.96,0,Not Clicked,Inactive,59.54
+U0203,25-09-2022,Premium,60.16,8,3,101.5,20-11-2022,12,90.33,84.08,72.36,3,Neutral,Neutral,1,18.66,0,Clicked,Active,77.72
+U0204,25-05-2023,Basic,29.98,4,26,21.7,25-08-2023,18,9.85,3.34,80.6,3,Neutral,Positive,0,63.63,0,Clicked,Active,50.59
+U0205,21-01-2023,Standard,50.83,3,24,63.2,08-02-2023,11,23.21,36.68,28.95,1,Neutral,N/A,2,50.01,1,Clicked,Active,50.94
+U0206,22-01-2023,Basic,71.47,2,22,12.1,09-01-2024,47,70.89,23.71,66.41,1,Neutral,Neutral,3,10.33,1,Not Clicked,Active,72.53
+U0207,23-04-2022,Premium,82.43,9,10,13.2,01-11-2022,24,82.37,44.73,42.66,2,Positive,Neutral,3,19.76,0,Clicked,Active,49.86
+U0208,05-09-2023,Basic,37.38,1,9,71,28-04-2024,34,85.7,7.24,88.91,5,Positive,Negative,3,47.96,0,Clicked,Inactive,60.85
+U0209,17-09-2023,Premium,31.03,7,26,70.1,19-06-2024,11,41.51,95.41,84.52,4,Neutral,Positive,0,88.76,1,Not Clicked,Active,89.78
+U0210,22-03-2022,Standard,73.04,5,20,106,03-11-2022,29,8.93,22.33,52.54,3,Positive,N/A,2,56.64,0,Not Clicked,Active,40.15
+U0211,30-11-2023,Basic,20.15,8,8,69.2,19-07-2024,4,43.78,92.23,69.15,1,Neutral,Neutral,4,68.15,0,Not Clicked,Inactive,38.51
+U0212,23-04-2022,Standard,34.27,4,10,115.4,01-06-2022,33,23.07,42.59,88.33,4,Neutral,Neutral,4,33.9,0,Not Clicked,Inactive,0.35
+U0213,02-01-2022,Premium,22.33,7,19,10.6,20-11-2022,21,29.12,98.55,49.57,5,Positive,Positive,1,57.14,0,Clicked,Inactive,61.34
+U0214,04-10-2023,Standard,33.35,5,3,16.3,04-03-2024,38,77.23,55.41,31.33,3,Positive,Neutral,0,44.74,0,Not Clicked,Inactive,2.98
+U0215,08-08-2022,Basic,34.51,5,24,10.1,12-12-2022,12,7.55,93.08,75.37,3,Positive,N/A,2,65.91,1,Clicked,Inactive,50.41
+U0216,20-07-2023,Standard,51.01,9,5,26.3,12-03-2024,46,82.76,0.53,22.01,5,Neutral,N/A,3,5.06,1,Not Clicked,Active,80.42
+U0217,13-08-2022,Standard,52.19,9,3,67.2,06-10-2022,2,42.77,74.82,38.85,3,Positive,N/A,0,49.33,0,Not Clicked,Active,54.99
+U0218,20-01-2023,Standard,89.94,9,26,79.2,10-07-2023,19,59.61,90.31,86.57,5,Negative,Neutral,0,29.6,0,Clicked,Active,26.96
+U0219,07-02-2023,Standard,60.81,6,27,10.2,26-05-2023,30,8.97,13.97,72.44,3,Positive,N/A,2,32.62,0,Not Clicked,Inactive,78.62
+U0220,30-09-2023,Standard,77.87,6,16,113.8,17-09-2024,4,33.74,9.61,40.38,2,Negative,Neutral,1,96.09,0,Clicked,Inactive,26.97
+U0221,10-05-2022,Basic,28.33,5,17,101.8,09-11-2022,23,8.97,42.46,21.47,5,Positive,N/A,1,18.27,0,Clicked,Active,73.3
+U0222,22-02-2022,Standard,38.04,9,15,39.1,07-09-2022,39,96.15,93.37,35.6,4,Positive,N/A,1,31.12,0,Not Clicked,Inactive,61.03
+U0223,15-11-2023,Standard,76.24,8,3,13.9,09-02-2024,32,80.73,54.24,28.41,2,Neutral,Neutral,3,50.99,0,Not Clicked,Inactive,17
+U0224,31-12-2023,Basic,24.22,7,12,24.5,18-07-2024,7,45.96,52.75,17.61,4,Neutral,Neutral,3,86.3,0,Not Clicked,Inactive,90.51
+U0225,03-11-2023,Premium,58.93,7,9,19.6,04-10-2024,23,22.36,14.11,74.33,3,Positive,Positive,2,41.67,0,Not Clicked,Inactive,20.06
+U0226,11-12-2023,Standard,67.95,6,21,19.2,27-10-2024,49,93.35,0.08,25.21,4,Neutral,Neutral,1,74.39,1,Not Clicked,Inactive,98.96
+U0227,20-02-2023,Standard,68.17,5,12,64.6,21-11-2023,19,34.46,81.01,45.42,2,Neutral,N/A,2,85.64,0,Clicked,Active,0.73
+U0228,04-09-2022,Premium,21.83,4,26,33.3,02-04-2023,15,16.1,8.76,38.59,5,Positive,Positive,1,31,1,Clicked,Active,26.35
+U0229,15-03-2023,Standard,45.77,3,15,46.2,10-07-2023,49,56.32,63.38,98.21,1,Positive,Positive,0,39.28,0,Clicked,Active,19.99
+U0230,22-07-2022,Premium,70.92,3,2,118.8,28-01-2023,11,94.38,91.46,39.11,4,Neutral,Positive,4,35.66,0,Clicked,Active,1.4
+U0231,03-07-2022,Standard,31.92,6,23,83.7,13-08-2022,12,0.38,20.87,8,1,Positive,N/A,4,83.29,0,Not Clicked,Active,73.24
+U0232,03-05-2022,Basic,75.63,4,18,114.1,13-06-2022,44,23.81,66.53,8.98,4,Positive,Neutral,1,4.43,0,Clicked,Inactive,69.34
+U0233,05-02-2023,Standard,79.67,6,20,21.4,16-12-2023,41,93.84,7.87,59.08,4,Neutral,Positive,2,30.84,0,Clicked,Inactive,79.24
+U0234,21-10-2022,Standard,98.56,3,12,48.9,23-07-2023,38,17.11,60.38,59.94,5,Positive,Neutral,3,67.94,1,Clicked,Inactive,25.67
+U0235,07-10-2022,Standard,36.79,4,23,68.8,31-08-2023,24,11.32,16.39,41.88,3,Positive,Negative,1,56.54,1,Not Clicked,Active,44.43
+U0236,02-09-2023,Basic,86.01,9,4,13.8,18-09-2023,45,57.02,73.6,43.18,2,Negative,Neutral,1,43.63,0,Not Clicked,Active,65.91
+U0237,17-07-2022,Basic,61.62,5,23,5.5,25-04-2023,31,86.18,30.12,5.39,2,Positive,N/A,3,53.99,0,Clicked,Active,43.98
+U0238,26-05-2023,Basic,49.88,7,16,82.1,07-02-2024,23,47.71,46.34,51.65,2,Neutral,Neutral,1,19.76,0,Not Clicked,Active,69.73
+U0239,24-05-2022,Basic,29.79,2,23,78.8,25-07-2022,47,99.46,59.94,50.47,3,Neutral,Neutral,0,43.07,0,Clicked,Active,63.4
+U0240,01-09-2023,Standard,78.84,5,16,52.2,01-11-2023,46,67.92,17.13,14.95,1,Positive,Positive,3,50.17,0,Not Clicked,Active,11.46
+U0241,20-07-2022,Basic,38.87,9,1,61.3,27-10-2022,43,7.41,74.16,10.38,2,Positive,Positive,0,90.12,0,Clicked,Active,78.1
+U0242,04-05-2022,Standard,49.71,3,22,52.8,22-05-2022,8,99.28,30.26,12.36,1,Positive,Neutral,4,26.08,0,Clicked,Inactive,72.07
+U0243,06-07-2022,Standard,25,9,25,7.8,22-07-2022,39,40.79,66.24,10.1,3,Positive,Neutral,3,86.78,0,Not Clicked,Active,65.58
+U0244,22-11-2022,Standard,84.11,6,2,43.6,12-10-2023,49,28.74,15.83,60.97,3,Neutral,Negative,3,64.42,0,Not Clicked,Inactive,15.51
+U0245,09-04-2023,Premium,81.33,4,3,25.4,10-12-2023,22,55.79,68.81,19.65,5,Neutral,Positive,2,2.03,0,Clicked,Active,26.8
+U0246,15-12-2022,Standard,78.69,7,26,16.3,22-08-2023,49,30.43,12.82,25.14,2,Positive,Positive,2,72.46,0,Not Clicked,Inactive,39.32
+U0247,22-10-2023,Standard,43.96,8,21,115,10-01-2024,12,8.65,42.54,17.36,5,Positive,N/A,3,3.56,1,Not Clicked,Active,27.99
+U0248,07-02-2023,Standard,33.88,6,25,73.9,17-03-2023,31,0.14,24.72,95.78,2,Positive,Neutral,4,99.74,0,Not Clicked,Active,22.78
+U0249,12-12-2022,Basic,71,5,20,88.8,16-01-2023,49,44.96,74.84,85.46,3,Positive,N/A,1,87.26,1,Clicked,Active,80.54
+U0250,26-05-2023,Premium,59.69,6,17,41.3,08-12-2023,14,83.69,26.2,23.05,3,Positive,N/A,2,29.73,1,Clicked,Inactive,63.82
+U0251,27-05-2022,Basic,34.26,5,20,50.2,31-10-2022,35,57.23,88.17,32.76,4,Positive,Neutral,4,25.74,1,Not Clicked,Active,56.55
+U0252,28-05-2022,Basic,74.87,8,22,32.2,17-12-2022,48,99.92,89.18,20.99,4,Neutral,N/A,4,38.14,1,Clicked,Active,22.6
+U0253,12-12-2023,Standard,99.29,1,21,16.2,24-06-2024,4,28.68,19.64,49.19,3,Positive,Neutral,2,35.62,0,Clicked,Inactive,91.81
+U0254,04-05-2023,Basic,79.78,7,29,25.6,05-12-2023,21,28.05,61.38,1.96,3,Positive,Positive,1,37.23,1,Clicked,Active,19.12
+U0255,02-10-2023,Premium,79.2,2,1,96.7,12-07-2024,15,15.97,8.77,67.14,1,Neutral,Neutral,2,31.83,0,Not Clicked,Active,79.5
+U0256,05-07-2023,Standard,96.03,9,20,82.9,16-01-2024,40,16.41,39.15,52.32,1,Positive,Neutral,4,62.11,0,Clicked,Active,96.67
+U0257,04-12-2022,Premium,36.23,1,6,67.9,06-10-2023,9,28.52,71.33,89.86,5,Positive,Neutral,0,16.43,1,Not Clicked,Inactive,72.71
+U0258,03-10-2023,Standard,65.24,6,29,59.6,02-03-2024,23,79.28,65.94,16.44,4,Positive,Neutral,2,84.6,1,Clicked,Active,99.29
+U0259,18-04-2023,Standard,98.37,9,15,111.1,01-05-2023,17,90.58,62.47,80.41,4,Positive,Neutral,4,81.24,1,Clicked,Active,65.11
+U0260,31-05-2022,Premium,33.22,1,26,13.4,20-04-2023,48,97.51,28.25,79.2,3,Positive,Positive,2,47.65,1,Clicked,Active,21.75
+U0261,19-02-2023,Basic,76.02,4,26,37.3,14-07-2023,17,23.23,37.8,12.72,3,Negative,Positive,4,85.27,1,Clicked,Active,20.38
+U0262,25-10-2022,Premium,66.86,4,14,45.2,20-12-2022,6,88.13,10.29,39.86,5,Positive,Positive,1,24.71,1,Not Clicked,Inactive,32.46
+U0263,03-09-2023,Basic,66.92,9,20,95,31-03-2024,3,32.83,71.9,17.02,4,Negative,Positive,4,1.76,1,Not Clicked,Active,0.71
+U0264,20-09-2022,Standard,75.81,5,15,119.1,14-06-2023,25,11.28,50.39,25.47,1,Positive,Neutral,3,61.92,0,Clicked,Active,68.17
+U0265,24-05-2022,Basic,94.37,5,14,32.7,19-12-2022,4,87,70.88,26.32,2,Positive,Neutral,0,45.79,1,Clicked,Active,26.87
+U0266,12-12-2022,Standard,82.61,6,25,105.5,28-12-2022,15,63.61,24.89,55.62,5,Positive,Positive,4,56.72,1,Not Clicked,Active,81.52
+U0267,16-09-2023,Basic,24.49,1,21,100.5,27-06-2024,34,16.47,32.44,41.14,2,Positive,N/A,2,89.93,1,Not Clicked,Active,35.92
+U0268,26-07-2023,Premium,88.22,1,24,30.8,03-07-2024,25,42.98,33.42,94.77,1,Positive,N/A,2,96.99,0,Not Clicked,Active,48
+U0269,02-01-2022,Premium,38.04,9,25,50.9,23-07-2022,17,28.73,2.57,12.64,1,Positive,Neutral,4,63.45,0,Not Clicked,Active,96.57
+U0270,31-10-2022,Premium,50.15,3,26,52.1,06-02-2023,28,73.68,34.1,97.37,2,Positive,N/A,3,76.41,0,Clicked,Inactive,24.22
+U0271,11-09-2022,Basic,56.94,4,5,117.5,16-06-2023,22,45.34,80.33,23.06,5,Positive,Neutral,4,8.38,1,Not Clicked,Active,72.13
+U0272,14-10-2023,Standard,58.47,1,6,25.8,09-05-2024,13,98.93,89.73,77.29,2,Positive,Positive,1,16.07,0,Clicked,Active,75.51
+U0273,29-03-2023,Standard,54.81,9,17,96.9,04-08-2023,14,5.47,51.82,33.9,5,Positive,N/A,3,73.32,0,Clicked,Active,22.1
+U0274,06-02-2022,Basic,94.99,8,11,43.4,06-01-2023,48,35.5,45.55,14.31,5,Positive,Positive,4,43.14,0,Not Clicked,Active,50.1
+U0275,09-06-2022,Basic,76.48,2,16,89.1,23-03-2023,32,48.19,3.08,85.79,3,Neutral,N/A,0,44.6,1,Not Clicked,Inactive,35.02
+U0276,09-01-2022,Standard,70.49,8,12,53.3,17-09-2022,24,50.31,87.92,30.89,4,Neutral,Neutral,3,30.86,1,Not Clicked,Active,77.19
+U0277,21-08-2022,Standard,23.99,7,15,71.5,12-05-2023,20,31.59,1.3,65.89,4,Positive,Neutral,4,60.74,1,Clicked,Active,62.25
+U0278,09-04-2022,Standard,92.31,6,23,100.8,04-01-2023,16,72.92,94.48,56.64,1,Positive,Neutral,0,18.52,0,Clicked,Inactive,47.6
+U0279,21-10-2023,Standard,92.75,1,4,97.5,25-04-2024,22,87.47,48.92,47.18,3,Positive,Neutral,4,62.69,0,Clicked,Active,77.94
+U0280,27-07-2022,Basic,82.42,7,27,104.6,25-02-2023,42,93.87,34.19,49.58,4,Neutral,Positive,1,17.38,0,Not Clicked,Active,23.52
+U0281,11-05-2022,Basic,20.56,7,18,11.9,17-02-2023,16,80.51,92.42,73.22,5,Positive,Neutral,2,6.38,0,Clicked,Active,75.36
+U0282,08-02-2023,Basic,24.58,9,21,84.6,06-09-2023,13,85.06,2.44,8.78,5,Neutral,N/A,4,33.04,1,Not Clicked,Active,86.54
+U0283,01-06-2022,Premium,38.02,1,28,21.1,31-05-2023,28,55.05,58.14,66.82,2,Positive,Neutral,3,23.11,0,Clicked,Inactive,87.86
+U0284,23-02-2022,Basic,30.51,2,3,52.8,09-05-2022,19,82.59,54.89,89.58,2,Positive,Positive,4,88.9,0,Not Clicked,Active,78.37
+U0285,30-04-2022,Basic,51.91,9,22,68.1,24-09-2022,29,30.35,21.93,5.78,5,Positive,Neutral,4,5.5,0,Not Clicked,Active,40.8
+U0286,04-11-2023,Basic,93.81,9,8,51.3,19-09-2024,18,39.85,42.89,14.07,5,Positive,N/A,4,17.66,0,Clicked,Active,98.18
+U0287,20-09-2023,Premium,57.76,6,23,64.8,19-04-2024,38,31.69,65.23,71.66,2,Neutral,Neutral,4,54.87,1,Clicked,Active,37.96
+U0288,10-08-2023,Premium,21.07,6,3,119.6,26-11-2023,12,46.74,72.71,43.73,4,Positive,Neutral,3,48.11,0,Not Clicked,Inactive,63.86
+U0289,17-09-2023,Standard,42.62,4,8,20.5,23-01-2024,17,28.56,0.07,40.35,1,Positive,N/A,3,4.59,1,Not Clicked,Active,16.11
+U0290,24-02-2023,Standard,23.57,4,18,82.7,05-03-2023,22,96.16,93.69,13.7,2,Positive,Neutral,4,0.73,0,Not Clicked,Inactive,98.04
+U0291,26-02-2023,Standard,22.9,5,10,50.5,13-04-2023,45,31.28,16.45,50.68,4,Neutral,Neutral,2,98.81,0,Not Clicked,Active,70.4
+U0292,14-04-2022,Basic,42.06,3,25,20.3,22-02-2023,32,9.8,23.36,12.65,4,Positive,N/A,4,65.88,0,Clicked,Inactive,75.34
+U0293,11-09-2022,Premium,42.05,1,20,23.3,15-12-2022,38,52.68,26.35,47.66,4,Positive,N/A,3,36.54,0,Not Clicked,Active,6.58
+U0294,15-08-2022,Standard,82.97,1,17,114.2,25-11-2022,39,5.71,3.78,76.36,3,Positive,Positive,1,47.04,1,Clicked,Active,76.34
+U0295,22-04-2022,Standard,97.99,7,8,106.2,29-03-2023,17,11.05,12.31,25.83,3,Positive,Positive,4,26.66,0,Not Clicked,Inactive,77.47
+U0296,25-05-2023,Standard,49.7,1,23,109.3,17-10-2023,8,21.94,98.63,48.08,4,Neutral,N/A,4,34.49,0,Clicked,Inactive,67.18
+U0297,18-04-2023,Standard,54.31,1,11,119,14-05-2023,32,46.44,31.52,99.2,5,Positive,Positive,4,64.9,0,Not Clicked,Active,29.19
+U0298,09-04-2022,Standard,87.58,3,29,29,14-11-2022,31,43.33,11.53,68.67,3,Positive,N/A,4,88.28,0,Clicked,Active,48.97
+U0299,02-06-2022,Premium,41.45,4,5,45.9,19-06-2022,16,79.97,10.7,84.14,2,Positive,Positive,0,18.41,1,Clicked,Active,11.04
+U0300,04-12-2022,Premium,32.51,4,26,82,19-05-2023,18,73.95,71.95,41.48,3,Negative,Neutral,4,84.04,0,Clicked,Inactive,47.16
+U0301,07-12-2023,Standard,88.25,2,13,60.6,26-02-2024,26,42.63,85.46,76.79,5,Positive,Positive,3,12.16,0,Not Clicked,Active,24.38
+U0302,12-06-2022,Standard,23.72,1,21,53.1,22-08-2022,5,33.37,25.7,4.05,1,Positive,N/A,3,21.5,1,Not Clicked,Inactive,34.91
+U0303,21-12-2023,Basic,69.58,3,23,46.1,25-10-2024,34,31.65,2.09,12.29,3,Negative,N/A,0,3.72,0,Not Clicked,Inactive,16.26
+U0304,12-11-2023,Standard,64.96,4,5,73.3,22-07-2024,36,77.4,22.31,20.31,4,Positive,Negative,4,14.08,0,Clicked,Inactive,23.01
+U0305,10-06-2022,Basic,47.67,3,24,71.2,18-11-2022,33,5.21,5.65,40.2,4,Negative,N/A,2,91.73,0,Not Clicked,Active,7.66
+U0306,03-08-2023,Standard,45.22,8,27,23.6,24-06-2024,19,1.28,10.34,84.57,4,Positive,Positive,4,45.94,0,Not Clicked,Active,91.99
+U0307,02-02-2023,Premium,81.75,1,13,59.3,11-03-2023,24,79.55,43.15,34.63,1,Positive,Positive,3,7.77,1,Clicked,Inactive,53.04
+U0308,04-10-2022,Standard,26.91,2,6,68.6,22-04-2023,3,47.71,22.99,65.46,5,Neutral,N/A,1,95.97,0,Clicked,Inactive,39.67
+U0309,19-05-2023,Standard,38.94,7,29,70.6,04-12-2023,9,13.09,51.59,70.93,2,Neutral,N/A,1,87.9,1,Clicked,Inactive,53.5
+U0310,27-01-2023,Basic,78.6,4,5,29.2,08-10-2023,9,23.56,25.35,58.62,5,Positive,N/A,2,75.47,0,Clicked,Active,62.83
+U0311,15-05-2022,Basic,63.87,8,9,90.4,09-11-2022,23,93.25,94.05,35.72,1,Negative,N/A,4,93.35,1,Clicked,Inactive,92.19
+U0312,14-07-2022,Standard,30.24,3,27,7.9,17-08-2022,20,85.95,90.59,57.71,4,Positive,Neutral,0,22.01,0,Not Clicked,Active,17.87
+U0313,05-02-2023,Basic,90.57,6,16,45.8,27-04-2023,10,70.98,56.68,34.23,5,Neutral,Positive,4,83.64,0,Clicked,Active,29.56
+U0314,02-10-2023,Basic,51.48,9,2,94.7,08-05-2024,26,48.22,35.44,8.39,2,Positive,N/A,2,69,0,Not Clicked,Inactive,97.58
+U0315,02-02-2022,Standard,86.23,1,1,69.8,09-07-2022,15,52.03,38.11,99.28,4,Positive,Neutral,2,86.98,0,Not Clicked,Active,37.12
+U0316,19-11-2023,Standard,83.02,1,8,35,22-11-2023,25,97.52,41.19,12.72,2,Negative,Neutral,2,79.69,1,Not Clicked,Inactive,2.26
+U0317,05-04-2023,Standard,69.95,8,28,84.9,18-09-2023,29,96.58,72.76,7.23,3,Negative,Negative,1,34.65,1,Not Clicked,Active,14.76
+U0318,15-04-2023,Basic,59.56,3,19,70.2,04-11-2023,48,21.53,45.16,87.85,2,Positive,Positive,4,77.44,0,Clicked,Active,2.63
+U0319,10-01-2023,Standard,98.36,5,11,96.6,22-07-2023,15,81.11,85.67,30.18,4,Positive,N/A,4,26.25,0,Not Clicked,Active,98.99
+U0320,22-01-2022,Standard,31.6,1,28,89.5,13-09-2022,6,19.72,94.41,65.03,3,Positive,Positive,0,32.86,0,Clicked,Active,27.89
+U0321,01-11-2023,Standard,78.01,5,12,75.2,24-05-2024,15,21.35,33.59,32.9,4,Positive,N/A,2,10.79,1,Not Clicked,Active,92.35
+U0322,07-02-2022,Standard,35.3,6,12,61.1,06-07-2022,34,67.61,56.07,39.15,4,Positive,Negative,2,93.51,1,Not Clicked,Inactive,99.59
+U0323,18-08-2022,Basic,47.06,8,7,20.3,23-01-2023,15,40.5,9.51,26.21,3,Positive,Neutral,3,29.1,0,Not Clicked,Inactive,59.98
+U0324,31-12-2022,Standard,44.7,3,26,35.1,05-10-2023,39,93.15,20.05,34.3,2,Positive,Neutral,3,52.06,1,Not Clicked,Active,3.32
+U0325,17-07-2023,Standard,95.76,3,13,53.2,15-05-2024,11,8.9,41.35,41.07,1,Neutral,Positive,1,39.13,1,Clicked,Active,8.16
+U0326,14-03-2023,Premium,97.39,9,27,73.9,26-08-2023,34,51.15,20.62,72.04,1,Positive,Neutral,4,95.99,0,Clicked,Inactive,48.16
+U0327,10-10-2022,Standard,34.64,4,8,64.1,16-08-2023,48,91.85,87.66,51.15,1,Positive,Neutral,0,33.5,1,Not Clicked,Inactive,40.62
+U0328,27-01-2022,Standard,21.76,4,29,38.1,04-04-2022,20,90.41,15.83,94.36,1,Positive,Neutral,0,77.85,0,Clicked,Inactive,60.62
+U0329,14-08-2022,Standard,77.6,7,29,5.7,09-11-2022,49,15.65,45.57,4.19,5,Neutral,Positive,2,85.54,0,Not Clicked,Inactive,43.88
+U0330,04-10-2022,Standard,53.44,2,22,62.1,08-05-2023,42,36.66,60.57,50.31,1,Positive,Positive,0,43.56,0,Clicked,Active,93.41
+U0331,01-09-2023,Premium,27.11,8,28,37.8,01-09-2023,35,61.91,69.19,58.42,3,Positive,Positive,2,37.82,0,Not Clicked,Active,53.47
+U0332,11-10-2022,Standard,74.7,6,26,89.5,22-02-2023,47,15.94,38.31,92.02,1,Neutral,Negative,4,74.77,0,Clicked,Active,69.37
+U0333,26-04-2023,Standard,63.61,3,9,7.8,27-10-2023,16,96.8,86.91,4.92,4,Neutral,Positive,0,91.29,0,Not Clicked,Active,89.65
+U0334,29-03-2023,Standard,98.44,9,7,72.3,13-03-2024,31,91.47,56.83,57.35,1,Neutral,N/A,2,75.49,1,Not Clicked,Inactive,14.69
+U0335,21-10-2023,Standard,38.19,5,26,113.3,08-03-2024,40,16.7,43.95,85.36,2,Negative,Negative,4,22.71,0,Clicked,Active,22.97
+U0336,31-05-2023,Standard,52.32,8,21,25.1,13-09-2023,5,12.12,6.72,24.19,3,Neutral,N/A,4,88.83,0,Clicked,Inactive,10.73
+U0337,01-07-2023,Premium,63.4,7,24,59.2,10-11-2023,23,8.54,46.47,87.63,3,Neutral,N/A,2,38.76,1,Clicked,Inactive,13.96
+U0338,11-07-2022,Standard,83.34,8,15,15.5,26-10-2022,26,90.94,82.07,1.9,5,Positive,Positive,2,57.62,0,Clicked,Inactive,51.26
+U0339,18-02-2022,Standard,63.91,7,2,77,14-08-2022,19,19.36,61.45,73.25,4,Positive,N/A,1,83.14,0,Clicked,Inactive,32.12
+U0340,27-05-2023,Premium,69.03,3,23,68.3,19-03-2024,24,41.63,83.22,93.31,3,Positive,Neutral,4,18.84,1,Clicked,Active,42.32
+U0341,17-01-2022,Basic,38.09,2,20,51.8,09-01-2023,1,44.89,49.4,65.72,2,Positive,N/A,2,78.45,1,Not Clicked,Inactive,98.25
+U0342,21-06-2022,Basic,87.75,7,25,65,14-06-2023,8,59.9,11.85,43.9,1,Positive,N/A,4,59.62,0,Clicked,Active,15.67
+U0343,08-08-2022,Basic,54.29,3,12,108.1,31-12-2022,27,7.17,1.36,4.49,3,Positive,Positive,0,89.33,0,Not Clicked,Active,54.08
+U0344,07-06-2022,Premium,31.28,3,1,27.6,19-08-2022,37,22.68,30.32,92.01,2,Neutral,Neutral,3,17.2,1,Not Clicked,Inactive,9.89
+U0345,22-04-2023,Basic,73.14,2,23,7.6,07-08-2023,2,93.15,69.8,47.03,1,Positive,Neutral,3,42.07,0,Clicked,Active,31.85
+U0346,15-02-2022,Basic,37.29,4,22,104.1,16-06-2022,19,90.84,79.03,2.9,5,Positive,Negative,2,83.28,0,Clicked,Inactive,52.75
+U0347,08-01-2023,Basic,27.81,8,8,71.4,24-01-2023,5,78.13,29.58,68.98,3,Negative,Positive,2,1.92,0,Not Clicked,Inactive,94.66
+U0348,02-06-2023,Basic,88.96,1,5,107.4,14-12-2023,38,1.94,49.57,48.18,3,Positive,Positive,4,11.22,0,Clicked,Inactive,39.12
+U0349,09-04-2022,Basic,56.81,1,15,73.6,01-03-2023,32,32.7,42.11,12.43,2,Positive,Neutral,2,99.06,1,Not Clicked,Active,6.49
+U0350,06-02-2022,Standard,79.94,5,1,98.2,20-12-2022,0,62.8,41.05,21.43,4,Positive,Neutral,4,28.04,1,Not Clicked,Inactive,38.82
+U0351,07-10-2022,Standard,43.25,5,1,54.4,30-07-2023,36,27.52,23.13,6.45,5,Neutral,N/A,2,97.55,1,Clicked,Active,14.57
+U0352,15-12-2022,Basic,82.96,1,25,91.2,23-08-2023,5,90.96,13.64,57.43,4,Positive,N/A,4,18.25,1,Not Clicked,Inactive,23
+U0353,12-05-2023,Basic,28.95,6,10,110,07-09-2023,44,63.39,19.67,62.2,3,Neutral,Neutral,2,36.11,0,Clicked,Active,61.81
+U0354,29-10-2022,Basic,48.48,1,22,70.8,08-04-2023,33,7.19,5.53,50.57,4,Positive,Positive,1,75.29,0,Clicked,Inactive,6.74
+U0355,30-06-2022,Basic,98.24,5,10,25.8,13-01-2023,46,90.9,19.81,81.71,1,Positive,Positive,4,65.78,1,Not Clicked,Active,46.47
+U0356,30-08-2023,Standard,83.52,9,21,35.9,13-10-2023,14,95.78,0.92,86.1,5,Positive,Neutral,1,58.11,0,Not Clicked,Active,60.95
+U0357,09-04-2022,Standard,59.78,5,15,27.8,16-02-2023,44,7.77,62.73,61.56,4,Neutral,N/A,1,52.99,0,Not Clicked,Active,42.19
+U0358,01-12-2023,Basic,47.18,6,17,33.4,27-05-2024,25,53.24,31.64,1.28,1,Neutral,Neutral,1,84.34,1,Not Clicked,Active,1.91
+U0359,26-04-2022,Standard,89.77,8,22,40.2,08-06-2022,13,30.34,97.31,69.52,2,Neutral,Neutral,1,23.49,0,Not Clicked,Inactive,98.55
+U0360,10-07-2022,Basic,63.59,1,6,68.8,06-04-2023,6,39.28,19.37,41.8,4,Neutral,N/A,0,44.25,0,Not Clicked,Active,36.71
+U0361,10-09-2022,Premium,80.67,2,3,72.6,26-11-2022,45,17.97,34.58,56.56,5,Positive,N/A,3,15.55,1,Clicked,Active,77.86
+U0362,10-06-2022,Standard,80.33,9,13,54,01-05-2023,30,57.81,35.78,64.91,1,Neutral,Positive,0,59.59,1,Not Clicked,Active,32.56
+U0363,13-09-2022,Standard,21.44,3,16,75.8,09-03-2023,23,95.8,0.85,35.02,4,Positive,Positive,2,25.05,0,Not Clicked,Active,47.5
+U0364,19-11-2022,Basic,30.1,6,8,14.4,10-11-2023,30,50.31,83.92,91.71,2,Neutral,Neutral,2,33.38,1,Clicked,Active,38.85
+U0365,08-05-2022,Premium,72.77,5,15,15.1,10-05-2022,28,8.29,3.2,13.4,4,Positive,Negative,3,47.13,0,Not Clicked,Inactive,34.25
+U0366,18-01-2022,Basic,32.93,2,17,24.8,19-08-2022,41,62,94.02,67.15,1,Positive,N/A,3,2.68,0,Clicked,Active,2.19
+U0367,20-07-2023,Basic,40.44,7,17,64.6,25-06-2024,31,34.02,89.21,0.44,4,Positive,Positive,3,9.19,1,Not Clicked,Active,36
+U0368,24-07-2023,Basic,95.73,4,22,29.6,05-10-2023,16,85.59,53.55,92.47,5,Positive,Positive,1,68.59,1,Not Clicked,Active,88.95
+U0369,19-11-2022,Basic,64.81,1,26,37.6,08-01-2023,13,43.47,54.36,11.25,3,Positive,N/A,0,42.9,0,Not Clicked,Active,69.04
+U0370,17-11-2023,Premium,80.06,4,13,51,22-01-2024,39,19.28,65.38,9.49,1,Neutral,N/A,2,86.48,0,Clicked,Active,14.54
+U0371,18-09-2023,Standard,64.64,6,17,98.4,14-08-2024,35,19.11,38.71,33.3,1,Positive,N/A,0,69.47,0,Not Clicked,Active,59.12
+U0372,15-10-2022,Basic,64.2,7,6,6.6,15-01-2023,47,76.88,64.72,37.36,1,Positive,Neutral,0,0.81,0,Clicked,Inactive,89.22
+U0373,25-10-2023,Standard,27.53,7,17,79.7,17-04-2024,23,26.56,4.48,21.43,1,Neutral,Neutral,0,61.67,0,Not Clicked,Active,70
+U0374,01-10-2023,Premium,47.49,7,16,81.9,22-02-2024,44,76.72,5.4,58.51,4,Positive,Positive,3,9.37,0,Not Clicked,Active,14.87
+U0375,04-06-2022,Premium,42.59,3,14,96.8,10-06-2022,26,20.59,45.72,44.29,5,Neutral,Positive,3,78.09,0,Not Clicked,Active,86.78
+U0376,05-05-2023,Standard,51.26,6,13,112.3,28-01-2024,24,32.17,54.96,3.42,2,Positive,Neutral,2,99.15,0,Not Clicked,Inactive,30.15
+U0377,21-01-2023,Premium,83.87,8,6,7.3,08-12-2023,31,46.55,88.78,31.97,5,Negative,Neutral,2,53.12,0,Not Clicked,Inactive,45.41
+U0378,14-04-2022,Premium,49.75,4,3,22.7,17-04-2022,17,94.32,10.47,81.04,1,Positive,Positive,2,68.28,1,Clicked,Active,52.61
+U0379,28-01-2023,Standard,56.14,8,14,106.9,14-06-2023,45,93.17,82.26,68.97,4,Positive,N/A,0,23.73,0,Clicked,Inactive,85.05
+U0380,03-09-2022,Basic,51.79,2,14,57.7,21-04-2023,17,20.69,21,72.49,4,Positive,Positive,3,43.76,0,Not Clicked,Active,93.16
+U0381,25-06-2022,Standard,27.47,9,15,69.9,20-09-2022,36,35.82,39.41,69.81,1,Positive,N/A,1,85.61,1,Clicked,Active,92.97
+U0382,08-02-2022,Premium,55.29,9,8,81.2,24-02-2022,25,14.94,31.66,31.1,4,Negative,Positive,0,16.74,1,Clicked,Active,0.8
+U0383,22-04-2023,Basic,35.65,8,29,83.1,12-06-2023,8,51,40.02,9.97,1,Positive,N/A,4,26.55,0,Not Clicked,Active,92.19
+U0384,13-11-2023,Premium,34.94,1,15,112.2,25-03-2024,34,46.06,15.05,27.25,5,Positive,Positive,0,44.54,0,Clicked,Active,5.44
+U0385,22-06-2023,Basic,27.52,2,22,119.6,18-01-2024,7,90.08,50.36,83.18,3,Positive,N/A,3,71.22,1,Clicked,Active,26.58
+U0386,12-02-2023,Basic,48.53,6,29,87.8,02-01-2024,19,93,80.16,98.05,4,Neutral,Positive,4,37.59,0,Not Clicked,Active,51.5
+U0387,09-06-2023,Basic,80.6,5,27,38,13-01-2024,41,38.36,44.15,49.38,1,Positive,Neutral,0,92.77,1,Clicked,Active,47.99
+U0388,21-05-2023,Basic,42.12,9,13,106.2,11-12-2023,21,49.17,49.06,0.97,1,Negative,N/A,3,9.45,0,Clicked,Active,60.47
+U0389,05-02-2022,Premium,44.99,5,17,10.7,03-09-2022,18,89.62,84.88,14,4,Positive,Positive,3,37.08,0,Clicked,Active,47.94
+U0390,16-11-2023,Premium,71.41,2,21,31.6,18-08-2024,29,80.67,70.61,32.21,2,Positive,Positive,1,70.9,0,Not Clicked,Inactive,93.44
+U0391,20-01-2022,Premium,35.67,4,24,108.2,12-02-2022,27,0.37,49.05,57.86,1,Positive,N/A,0,22.6,1,Not Clicked,Active,24.05
+U0392,17-11-2022,Standard,91.76,9,3,34.5,20-11-2022,34,32.01,25.77,7.51,4,Neutral,N/A,3,65.64,1,Not Clicked,Inactive,27.4
+U0393,27-05-2023,Basic,61.62,1,28,30.4,25-10-2023,42,42.18,88.49,94.34,1,Neutral,Positive,2,16.42,0,Clicked,Inactive,92.07
+U0394,04-02-2023,Standard,55.81,1,6,20.9,20-10-2023,10,22.97,57.7,36.51,2,Positive,Positive,3,5.6,0,Not Clicked,Active,7.67
+U0395,16-10-2023,Standard,64.63,7,5,103.8,03-09-2024,30,19.96,22.11,91.26,3,Positive,Positive,1,12.1,0,Not Clicked,Active,60.96
+U0396,16-04-2023,Standard,33.28,3,22,62.5,06-04-2024,48,3.78,26.91,78.05,2,Neutral,Positive,3,93,0,Not Clicked,Active,68.17
+U0397,23-05-2022,Basic,69.08,2,26,82.6,06-11-2022,47,64.34,80.31,75.54,5,Positive,N/A,0,55.18,1,Not Clicked,Active,50.55
+U0398,02-04-2022,Standard,49.05,9,17,32.5,24-09-2022,38,26.25,4.41,60.67,4,Positive,Neutral,0,79.63,0,Clicked,Active,69.42
+U0399,20-12-2022,Standard,91.77,3,23,92.2,25-10-2023,35,5.23,99.21,62.68,2,Positive,Neutral,4,33.27,1,Clicked,Active,17.28
+U0400,28-12-2023,Premium,33.51,2,25,92.4,13-10-2024,29,23.1,13.04,63.8,3,Positive,N/A,0,59.27,0,Clicked,Active,85.26
+U0401,20-02-2022,Premium,60.56,8,2,40.9,16-04-2022,22,80.19,79.61,62.87,1,Positive,Neutral,4,49.5,1,Clicked,Inactive,14
+U0402,27-10-2023,Standard,67.85,6,26,52.2,11-02-2024,18,85.15,39.48,55.37,4,Positive,Negative,2,94.57,1,Not Clicked,Active,40.08
+U0403,29-11-2023,Standard,22.67,6,15,29.1,19-09-2024,11,48.31,49.22,98.64,2,Positive,Neutral,1,74.76,0,Not Clicked,Inactive,7.53
+U0404,29-07-2023,Standard,49.1,7,5,117.3,16-06-2024,14,41.61,88.07,73.23,3,Neutral,Neutral,2,73.05,0,Not Clicked,Active,54.52
+U0405,09-07-2022,Basic,78.61,7,26,79.2,06-05-2023,30,97.79,41.29,77.69,2,Positive,Neutral,4,4.64,0,Clicked,Inactive,66.97
+U0406,05-05-2022,Premium,85.63,6,20,112.5,03-04-2023,42,20.06,53.75,87.25,5,Neutral,Positive,3,54.97,0,Clicked,Active,94.12
+U0407,30-05-2022,Premium,45.05,4,6,39.9,17-10-2022,36,21.54,4.93,21.56,4,Positive,Positive,3,46.7,0,Clicked,Active,73.93
+U0408,10-11-2022,Standard,83.89,9,6,94.9,13-04-2023,36,29.19,0.23,8.38,1,Neutral,Positive,2,92.78,0,Clicked,Inactive,54.11
+U0409,24-07-2023,Basic,97.42,6,27,93.1,10-04-2024,14,17.28,24.48,48.29,3,Positive,Positive,3,25.73,1,Clicked,Inactive,93.26
+U0410,08-12-2022,Basic,88.55,4,18,84.5,06-09-2023,28,37.94,68.06,51.41,2,Neutral,Neutral,4,26.98,0,Not Clicked,Active,47.84
+U0411,01-11-2022,Standard,29.41,3,18,116,20-06-2023,49,91.08,12.13,82.92,4,Positive,Neutral,1,41.13,1,Clicked,Active,56.12
+U0412,23-11-2023,Basic,79.18,4,4,50.3,20-07-2024,42,61.53,11.38,44.38,2,Neutral,Neutral,0,24.34,1,Not Clicked,Inactive,59.61
+U0413,13-11-2023,Premium,45.57,3,17,20,01-11-2024,25,41.19,41.1,57.09,4,Positive,Positive,4,12.92,1,Clicked,Inactive,41
+U0414,23-02-2022,Basic,99.07,2,25,82.2,25-01-2023,43,93.44,64.78,52.71,5,Positive,Negative,4,85.74,0,Not Clicked,Active,83.85
+U0415,20-03-2023,Basic,58.83,5,14,88.9,02-12-2023,1,4.85,71.21,3.82,2,Negative,Positive,0,55.83,0,Not Clicked,Active,18.52
+U0416,05-09-2023,Premium,29.79,2,14,71.1,10-05-2024,19,21.03,17.85,61.52,5,Positive,Neutral,0,86.14,0,Clicked,Inactive,55.48
+U0417,21-09-2022,Standard,78.01,6,13,28.8,06-12-2022,14,56.59,7.96,82.8,3,Positive,N/A,1,83.11,0,Not Clicked,Active,72.22
+U0418,22-02-2022,Basic,45.84,3,7,63,20-08-2022,3,61.56,94.04,15.75,5,Negative,Positive,1,28.2,0,Not Clicked,Inactive,90.4
+U0419,26-07-2023,Basic,99.77,6,12,40.9,29-09-2023,21,3.96,26.07,59.43,4,Positive,N/A,1,54.77,1,Not Clicked,Active,88.39
+U0420,12-09-2023,Basic,98.38,9,23,54.2,15-07-2024,49,40.3,85.33,59.36,3,Positive,N/A,3,8.32,0,Not Clicked,Inactive,50.87
+U0421,05-01-2022,Standard,72.49,1,15,79.2,18-12-2022,37,64.92,86.35,16.42,2,Negative,Positive,4,91.53,0,Clicked,Inactive,64.32
+U0422,13-04-2022,Basic,30.39,6,19,90.7,30-09-2022,22,69.81,77.25,12.35,2,Positive,Positive,0,40.43,1,Not Clicked,Inactive,39.42
+U0423,15-07-2022,Standard,74.95,9,11,31.7,05-08-2022,25,63.81,16.88,98.01,4,Neutral,N/A,4,39.37,0,Not Clicked,Active,46.82
+U0424,16-12-2022,Premium,27.44,4,15,51.6,01-04-2023,10,32.06,82.18,39.37,1,Positive,Positive,4,30.28,0,Clicked,Active,90.63
+U0425,16-02-2022,Basic,22.35,2,12,36,04-01-2023,27,9.35,76.93,22.74,1,Neutral,N/A,1,46.07,1,Clicked,Active,93.07
+U0426,18-10-2023,Premium,85.84,4,3,27.8,31-05-2024,1,42.71,59.67,17.13,2,Positive,Neutral,1,25.18,0,Not Clicked,Inactive,89.54
+U0427,26-09-2022,Premium,36.78,1,17,95.1,29-04-2023,7,12.88,33.72,66.76,4,Negative,Positive,4,37.49,0,Clicked,Inactive,13.84
+U0428,05-01-2023,Basic,50.32,3,3,109.6,14-03-2023,28,94.76,26.25,60.94,1,Positive,Positive,1,79.99,0,Not Clicked,Active,85.01
+U0429,28-09-2023,Premium,97.88,9,19,47.6,20-12-2023,10,47.52,12.19,64.36,5,Positive,Neutral,3,83.43,1,Not Clicked,Inactive,94.84
+U0430,16-04-2022,Standard,46.95,5,20,91.4,27-07-2022,36,31.73,50.98,8.8,2,Neutral,Neutral,0,30.42,0,Not Clicked,Inactive,36.12
+U0431,01-11-2023,Premium,43.72,6,4,108.2,09-12-2023,17,76.63,58.53,89.35,5,Positive,Negative,4,46.9,0,Clicked,Active,51.86
+U0432,21-10-2023,Standard,93.46,3,3,102.3,02-11-2023,49,49.79,35.93,38.93,4,Neutral,N/A,0,87.38,0,Clicked,Active,77.91
+U0433,19-10-2023,Standard,28.86,5,26,26,10-08-2024,13,31,47.54,31.34,5,Neutral,N/A,3,5.27,0,Clicked,Inactive,56.21
+U0434,30-04-2022,Standard,80.77,8,16,115,08-03-2023,9,81.2,36.35,46.24,1,Positive,Positive,1,88.91,0,Not Clicked,Active,99.35
+U0435,27-08-2023,Premium,99.05,6,12,48.3,23-02-2024,34,86.72,64.1,39.01,1,Neutral,N/A,2,21.92,0,Not Clicked,Inactive,45.57
+U0436,27-02-2022,Standard,92.1,4,8,44,21-11-2022,8,67.3,90.13,86.36,3,Positive,N/A,3,67.85,0,Not Clicked,Active,71.39
+U0437,12-12-2022,Standard,72.13,2,24,12.2,24-12-2022,34,4.7,16.39,92.93,2,Positive,N/A,2,58.26,0,Not Clicked,Inactive,79.26
+U0438,19-04-2023,Premium,45.12,9,29,60.9,16-08-2023,10,56.63,38.14,30.35,4,Positive,Neutral,0,55.29,0,Clicked,Active,49.41
+U0439,27-04-2022,Basic,40.35,1,29,17.5,14-04-2023,43,76.33,14.09,86.39,2,Neutral,N/A,4,85.94,0,Clicked,Active,85.7
+U0440,07-05-2022,Basic,85.54,1,17,33.6,02-07-2022,11,13.65,62.49,78.15,5,Positive,Neutral,1,10.16,0,Not Clicked,Active,54.62
+U0441,28-01-2023,Basic,90.39,4,7,41.4,08-03-2023,2,22.87,72.89,93.08,4,Neutral,Neutral,3,34.7,0,Clicked,Active,41.17
+U0442,03-10-2023,Basic,62.03,7,11,98,02-09-2024,38,88.25,93.19,24.58,4,Positive,N/A,1,53.83,0,Clicked,Active,10.78
+U0443,27-02-2022,Basic,39.55,1,18,105.7,04-07-2022,13,2.01,27.89,57.7,1,Neutral,Positive,2,81.13,1,Clicked,Active,39.34
+U0444,26-09-2023,Premium,29.04,9,1,39.8,16-03-2024,27,75.27,95.02,27.45,5,Positive,Positive,2,21.64,1,Clicked,Inactive,73.39
+U0445,28-05-2023,Basic,26.97,4,3,103.8,01-07-2023,10,47.38,6.33,82.41,1,Neutral,N/A,4,80.29,0,Clicked,Inactive,92.13
+U0446,06-04-2022,Standard,77.53,3,4,103.6,20-12-2022,38,44.68,60.3,0.53,1,Positive,Positive,2,39.96,0,Not Clicked,Active,25.17
+U0447,30-09-2023,Basic,53.61,1,13,92.9,04-10-2023,24,0.71,5.71,56.48,3,Positive,N/A,4,18.89,0,Not Clicked,Inactive,35.52
+U0448,28-04-2022,Premium,92.43,4,6,21.9,01-12-2022,20,81.94,89.38,33.92,1,Positive,N/A,3,75.9,0,Not Clicked,Active,15.4
+U0449,14-07-2023,Premium,79.17,9,26,84.4,24-07-2023,9,35.98,52.98,32.27,2,Neutral,Positive,4,9.09,0,Not Clicked,Inactive,69.07
+U0450,24-08-2023,Standard,35.3,6,14,113.7,15-07-2024,42,54.08,66.93,64.49,4,Positive,Neutral,2,51.48,0,Not Clicked,Inactive,96.02
+U0451,03-05-2023,Premium,69.1,6,5,83.5,27-08-2023,14,67.73,83.16,85.15,1,Neutral,N/A,0,6.39,1,Not Clicked,Active,64.1
+U0452,25-08-2022,Basic,54.84,1,16,43.1,24-02-2023,18,70.26,15.03,60.92,2,Positive,Neutral,4,35.64,0,Clicked,Inactive,61.71
+U0453,29-09-2022,Premium,66.18,2,15,62.6,25-09-2023,47,95.6,3.86,85.32,5,Neutral,N/A,1,60.11,0,Not Clicked,Inactive,55.35
+U0454,08-07-2022,Basic,79.05,6,15,79.3,31-10-2022,21,53.13,87.89,26.46,4,Positive,N/A,0,55.61,1,Clicked,Active,8.85
+U0455,05-12-2023,Premium,84.5,2,4,63.7,14-05-2024,20,39.97,31.49,51.95,5,Positive,Neutral,4,40.47,0,Clicked,Inactive,72.95
+U0456,23-03-2023,Basic,87.5,3,8,18.8,28-05-2023,43,95.37,12.9,45.05,2,Positive,Positive,1,42.9,0,Clicked,Inactive,60.2
+U0457,04-08-2023,Standard,40.32,4,27,40.9,19-02-2024,31,64.21,46.85,1.16,5,Positive,N/A,0,22.68,1,Not Clicked,Active,66.15
+U0458,04-09-2022,Standard,22.49,5,16,97.3,04-10-2022,49,29.82,59.83,55.68,5,Positive,Neutral,4,45.59,1,Clicked,Inactive,89.88
+U0459,17-03-2022,Basic,79.14,9,28,104.1,30-05-2022,22,12.65,3.1,66.15,5,Negative,Positive,3,95.33,1,Clicked,Inactive,78.4
+U0460,03-06-2022,Basic,28.51,4,16,20.8,25-01-2023,12,84.26,27.49,59.19,1,Negative,N/A,1,85.05,0,Clicked,Active,78.09
+U0461,18-10-2023,Basic,45.19,9,4,114.5,08-09-2024,4,36.22,3.28,73.63,1,Neutral,N/A,3,14.52,0,Not Clicked,Active,92.72
+U0462,11-03-2023,Basic,20.31,3,13,42.8,15-05-2023,3,66.05,42.03,57.13,1,Positive,Negative,2,2.98,1,Not Clicked,Active,98.99
+U0463,27-03-2022,Standard,74.53,8,26,81.2,04-06-2022,27,47.08,89.51,6.68,4,Positive,Neutral,4,93.35,0,Not Clicked,Inactive,58.13
+U0464,28-11-2023,Basic,33.37,1,28,91.5,19-09-2024,13,19.89,98.27,11.64,2,Neutral,Negative,4,52.67,1,Clicked,Inactive,10.89
+U0465,12-10-2022,Basic,72.42,9,13,98.4,31-10-2022,7,60.17,63.7,59.65,1,Positive,N/A,1,53.78,0,Clicked,Active,45.91
+U0466,08-08-2022,Basic,99.34,9,2,113.8,21-03-2023,8,6.07,16.16,27.5,5,Negative,N/A,4,78.07,0,Not Clicked,Inactive,78.76
+U0467,10-03-2022,Premium,25.81,2,3,41,24-09-2022,34,41.33,90.58,7.96,5,Positive,N/A,2,31.47,1,Clicked,Inactive,2.77
+U0468,16-02-2022,Basic,26.17,4,22,103.7,26-03-2022,36,54.66,51.62,42.96,5,Negative,Neutral,4,48.19,0,Not Clicked,Inactive,5.69
+U0469,04-04-2022,Basic,47.23,8,8,20.1,26-08-2022,20,43.6,15.37,55.43,5,Positive,N/A,0,96.87,0,Not Clicked,Active,6.72
+U0470,29-03-2023,Basic,89.31,7,24,86.1,12-05-2023,17,74.87,92.17,32.87,3,Neutral,N/A,3,67.21,0,Not Clicked,Active,73.1
+U0471,23-07-2022,Standard,37.24,1,15,90.3,13-06-2023,32,82.79,75.75,72.04,4,Positive,Positive,2,15.37,0,Not Clicked,Inactive,50.12
+U0472,06-08-2022,Premium,48.83,5,11,82.9,04-11-2022,7,77.12,73.17,64.38,2,Neutral,Positive,2,13.32,0,Clicked,Active,36.89
+U0473,19-04-2023,Basic,25.48,7,9,34,12-12-2023,48,3.88,70.92,33.28,2,Positive,N/A,3,20.43,0,Clicked,Inactive,10.56
+U0474,08-03-2023,Basic,81.05,4,7,105.4,16-05-2023,16,19.41,20.03,75.49,1,Neutral,Positive,3,76.67,0,Not Clicked,Inactive,73.22
+U0475,07-12-2022,Standard,52.66,1,13,24.4,21-05-2023,42,53.66,21.1,64.87,3,Neutral,Positive,2,29.54,1,Clicked,Active,32.1
+U0476,05-07-2023,Standard,80.74,9,2,11.2,11-11-2023,30,93.48,68.83,63.74,2,Positive,Positive,3,2.14,0,Clicked,Inactive,26.53
+U0477,04-09-2023,Basic,92.29,5,8,87.5,04-04-2024,33,83.5,21.97,55.34,4,Positive,Neutral,1,94.42,1,Clicked,Active,65.23
+U0478,16-10-2022,Standard,38.62,2,7,59.7,20-09-2023,5,84.25,43.87,1.14,5,Positive,Positive,3,16.97,0,Clicked,Active,55.9
+U0479,11-09-2022,Premium,84.59,8,24,102.6,08-12-2022,21,30.32,78.2,69.65,1,Positive,Neutral,0,0.96,0,Clicked,Active,36.24
+U0480,23-12-2022,Basic,24.73,2,12,49.1,22-11-2023,13,42.94,78.4,37.6,4,Positive,N/A,0,23.71,0,Clicked,Active,64.15
+U0481,23-01-2022,Standard,91.91,3,19,24.4,01-10-2022,2,47.07,45.33,94.26,2,Positive,N/A,1,23.5,1,Not Clicked,Active,27.12
+U0482,06-06-2023,Standard,72.06,1,7,101.2,19-05-2024,11,15.74,79.22,81.8,3,Positive,N/A,3,42.2,1,Not Clicked,Inactive,79.48
+U0483,10-04-2022,Standard,89.94,2,10,68.1,20-06-2022,35,3.11,83.86,58.77,1,Neutral,Positive,0,92.04,1,Not Clicked,Inactive,22.93
+U0484,29-06-2022,Basic,20.02,7,29,26.8,10-12-2022,11,94.69,65.48,25.22,2,Neutral,N/A,4,87.92,0,Not Clicked,Active,15.88
+U0485,11-08-2022,Basic,33.53,2,25,87.8,28-09-2022,44,24.07,22.84,20.37,1,Positive,N/A,3,45.69,0,Clicked,Inactive,78.24
+U0486,21-10-2023,Premium,51.18,6,16,63.8,11-12-2023,1,23.99,27.4,34.04,2,Neutral,Negative,1,41.09,1,Clicked,Active,70.79
+U0487,18-03-2023,Premium,50.36,3,3,74.5,31-12-2023,1,8.34,31.48,47.66,5,Neutral,Positive,3,55.5,1,Clicked,Active,18.26
+U0488,31-08-2023,Standard,38.14,4,10,58,03-06-2024,14,92.85,11.68,29.61,3,Positive,Neutral,2,24.35,1,Not Clicked,Inactive,11.62
+U0489,21-11-2022,Standard,50.53,8,6,100.3,14-03-2023,22,57.97,27.32,51.49,5,Positive,N/A,2,5.22,0,Not Clicked,Inactive,83.84
+U0490,31-05-2023,Standard,30.31,3,18,100.4,24-01-2024,28,66.7,20.95,16.54,2,Positive,Negative,0,93.92,1,Clicked,Inactive,77.66
+U0491,16-01-2022,Standard,53.02,6,18,86.6,28-05-2022,16,91.16,45.53,97.77,4,Neutral,N/A,2,18.67,0,Clicked,Active,32.73
+U0492,02-12-2022,Basic,84.19,1,5,17.1,01-09-2023,31,34.56,90.84,10.79,5,Neutral,Neutral,1,19.84,0,Not Clicked,Inactive,65.82
+U0493,15-09-2022,Basic,58.33,7,21,101.5,27-02-2023,6,62.15,10.45,93.19,4,Positive,Neutral,0,47.25,0,Not Clicked,Inactive,12.42
+U0494,12-05-2023,Premium,21.44,8,29,82.2,28-02-2024,29,3.88,72.03,91.36,2,Neutral,N/A,1,49.16,0,Not Clicked,Inactive,50.7
+U0495,09-06-2022,Basic,53.72,8,7,85.2,06-02-2023,27,18.68,68.73,52.54,3,Positive,Positive,1,1.84,1,Clicked,Active,1.87
+U0496,20-04-2023,Premium,22.17,3,28,46.7,04-03-2024,13,83.12,9.58,72.49,4,Positive,Negative,2,14.8,1,Clicked,Active,39.16
+U0497,26-10-2023,Basic,97.3,1,2,106.1,11-03-2024,43,76.68,92.26,43.6,2,Neutral,N/A,2,37.82,1,Not Clicked,Inactive,7.48
+U0498,21-11-2023,Basic,30.2,9,11,88.4,07-02-2024,29,35.06,56.85,63,4,Neutral,N/A,1,68.37,0,Not Clicked,Inactive,47.51
+U0499,06-11-2023,Basic,76.62,6,13,17.9,23-04-2024,16,37.68,36.37,34.06,5,Positive,Positive,2,22.84,0,Not Clicked,Active,42.17
+U0500,15-01-2023,Standard,97.82,9,23,51.9,17-05-2023,31,53.36,75.65,30.12,2,Positive,Positive,2,42.3,1,Not Clicked,Active,44.44
+U0501,29-06-2023,Premium,86.08,7,5,106.9,21-12-2023,45,0.02,25.74,57.82,5,Negative,Negative,2,55.73,0,Not Clicked,Active,4.53
+U0502,22-11-2023,Basic,75.95,1,6,10.4,16-09-2024,5,24.12,69.35,49.81,1,Positive,N/A,3,88.86,1,Not Clicked,Active,36.16
+U0503,03-03-2023,Premium,87.16,1,24,115.6,23-05-2023,23,20.82,3.97,57.95,2,Neutral,Neutral,1,32.61,0,Clicked,Active,75.65
+U0504,05-09-2023,Standard,98.54,6,26,83.1,30-11-2023,5,25.05,83.94,28.67,4,Positive,Neutral,4,13.36,0,Clicked,Active,36.89
+U0505,25-09-2022,Premium,69.71,5,29,77.6,07-05-2023,26,80.59,44.82,36.7,1,Positive,Positive,1,48.93,0,Not Clicked,Active,71.52
+U0506,31-07-2023,Basic,64.73,9,14,36.1,15-08-2023,17,27.97,63.67,8.39,5,Positive,N/A,0,74.67,1,Clicked,Active,36.95
+U0507,21-02-2023,Premium,70.26,2,12,33.6,27-12-2023,23,19.15,22.12,5.23,5,Positive,N/A,2,10.99,0,Not Clicked,Active,42.32
+U0508,17-06-2022,Standard,62.61,8,4,113.3,09-06-2023,36,50.43,67.71,25.35,4,Neutral,N/A,2,42.47,0,Not Clicked,Active,56.39
+U0509,12-02-2022,Basic,70.81,5,29,39.3,24-07-2022,23,86.56,77.22,7.42,1,Positive,Neutral,4,1.78,1,Not Clicked,Active,95.07
+U0510,10-07-2023,Basic,55.99,2,23,94.2,15-10-2023,37,24.13,47.32,10.38,3,Positive,N/A,0,3.36,0,Clicked,Inactive,10.89
+U0511,12-10-2022,Premium,37.48,6,6,50.2,16-03-2023,33,7.85,61.77,81.29,4,Positive,Neutral,3,48.3,1,Clicked,Active,3.29
+U0512,01-02-2023,Premium,29.62,8,10,21,02-02-2023,39,35.64,45.63,3.89,5,Positive,Neutral,1,29.82,0,Not Clicked,Inactive,60.8
+U0513,12-01-2022,Basic,25.47,4,18,6.2,27-12-2022,46,74.77,89.41,65.89,2,Negative,N/A,3,84.51,0,Not Clicked,Active,94.91
+U0514,30-08-2023,Standard,41.07,2,15,67.6,14-02-2024,14,55.07,49.79,27.26,1,Neutral,Positive,0,60.22,1,Not Clicked,Inactive,98.97
+U0515,29-10-2022,Premium,23.69,5,8,117.2,08-09-2023,10,81.68,84.18,87.15,3,Positive,Neutral,4,45.39,0,Clicked,Active,48.42
+U0516,10-09-2022,Premium,65.37,2,26,47.5,31-07-2023,21,95.96,80.14,48.5,2,Neutral,N/A,0,40.79,0,Clicked,Active,46.81
+U0517,14-05-2023,Premium,42.71,2,9,46.1,13-08-2023,23,79.27,41.05,30.56,1,Neutral,Neutral,4,49.72,0,Not Clicked,Active,64.5
+U0518,04-02-2022,Standard,85.96,6,5,44.6,03-08-2022,0,60.38,23.01,51.76,4,Neutral,Positive,3,4.04,0,Not Clicked,Inactive,55.56
+U0519,28-12-2023,Standard,25.94,9,10,64.9,14-08-2024,17,49.33,40.61,38.2,4,Positive,Neutral,3,89.28,0,Not Clicked,Active,63.41
+U0520,31-03-2022,Basic,38.11,4,20,55.7,25-01-2023,43,4.01,82.62,56.43,1,Positive,Neutral,0,99.83,0,Clicked,Active,87.4
+U0521,28-08-2023,Basic,78.42,6,6,106.2,22-01-2024,11,98.43,22.76,11.45,3,Positive,N/A,0,18.15,1,Clicked,Active,74.63
+U0522,25-08-2023,Standard,67.9,7,16,63.1,30-05-2024,42,38.35,52.44,99.7,1,Neutral,Positive,2,12.04,1,Clicked,Inactive,49.69
+U0523,22-02-2023,Standard,25.16,6,24,63.4,29-08-2023,27,15.22,80.61,42.56,2,Neutral,N/A,4,14.36,0,Not Clicked,Active,46.19
+U0524,25-04-2022,Basic,90.18,8,27,20.9,06-04-2023,39,66.67,35.35,34.82,2,Positive,Positive,2,66.1,0,Not Clicked,Active,63.96
+U0525,09-09-2023,Premium,90.18,4,3,118,23-08-2024,6,28.43,64.22,71.02,4,Positive,Positive,1,66.14,0,Clicked,Active,45.57
+U0526,15-07-2022,Standard,46.43,1,10,33.7,24-05-2023,22,58.58,24.56,36.39,1,Positive,Positive,1,84.79,0,Clicked,Active,45.78
+U0527,16-05-2023,Standard,47.23,7,11,13.4,20-09-2023,20,58.68,10.93,83.33,4,Positive,N/A,0,75.18,0,Not Clicked,Inactive,1.63
+U0528,18-09-2023,Standard,99.12,3,11,81.3,24-09-2023,33,44.57,79.44,45.43,3,Negative,Positive,3,44.97,0,Clicked,Active,17.41
+U0529,08-05-2023,Standard,70.09,6,17,73.5,23-06-2023,10,83.61,9.9,71.96,2,Positive,N/A,1,61.29,0,Not Clicked,Active,48.85
+U0530,16-03-2022,Basic,62.51,2,4,52.7,07-05-2022,21,26.5,27.14,10.75,5,Positive,Neutral,1,68.83,0,Not Clicked,Inactive,82.27
+U0531,17-02-2023,Basic,87.05,9,4,53.6,22-08-2023,41,44.86,85.51,84.61,5,Negative,N/A,2,51.27,0,Clicked,Inactive,27.87
+U0532,11-01-2023,Basic,42.82,1,17,95.3,17-02-2023,34,53.77,34.65,73.57,1,Positive,N/A,2,47.57,1,Clicked,Active,52.26
+U0533,24-02-2023,Basic,54.33,6,9,27.5,07-10-2023,28,66.36,97.3,21.17,1,Neutral,N/A,1,64.51,1,Not Clicked,Inactive,34.5
+U0534,30-12-2023,Standard,41.42,6,19,99.3,20-02-2024,41,78.4,97.97,14.53,5,Positive,N/A,0,55.75,0,Clicked,Active,10.48
+U0535,04-10-2022,Standard,83.13,5,5,79.6,15-05-2023,27,39.48,26.83,31.63,1,Positive,Negative,2,64.39,1,Clicked,Active,95.83
+U0536,07-11-2023,Basic,65.87,5,22,53.2,08-04-2024,17,64.6,4.1,97.61,2,Positive,N/A,1,61.29,0,Not Clicked,Inactive,85.47
+U0537,29-01-2023,Standard,72.71,1,24,57.7,17-03-2023,13,15.06,70.51,25.68,3,Neutral,Positive,3,71.92,1,Not Clicked,Inactive,7.85
+U0538,02-04-2023,Basic,40.18,5,6,34.5,17-03-2024,17,93.26,45.1,45.61,3,Positive,Positive,2,64.28,0,Not Clicked,Active,71.98
+U0539,11-07-2022,Premium,37.62,2,3,91.5,04-12-2022,27,38.31,10.08,3,4,Positive,Negative,1,51.97,1,Clicked,Active,34.76
+U0540,20-11-2023,Premium,59.07,7,22,64,22-01-2024,23,72.95,70.75,39.72,2,Neutral,Neutral,4,68.18,0,Clicked,Active,99.48
+U0541,09-04-2022,Basic,79.01,3,1,41.9,23-03-2023,7,2.03,3.12,57.13,1,Positive,Neutral,2,44.95,0,Clicked,Active,30.24
+U0542,02-07-2023,Standard,62.02,4,20,73.5,30-12-2023,41,20.52,87.02,95.31,1,Positive,Neutral,4,24.17,0,Clicked,Active,23.87
+U0543,06-04-2022,Basic,22.61,3,22,119.5,08-08-2022,44,48.71,13.87,51.67,4,Positive,Neutral,2,0.14,0,Not Clicked,Active,56.79
+U0544,26-10-2023,Standard,89.48,3,16,55.1,21-04-2024,7,87.83,12.73,81.91,4,Positive,Negative,2,56,0,Clicked,Inactive,83.51
+U0545,25-10-2023,Standard,25.17,4,23,110.9,02-12-2023,3,52.73,17.57,54.71,1,Neutral,Positive,4,59.07,0,Not Clicked,Inactive,19.25
+U0546,09-07-2022,Basic,96.47,5,11,44.7,25-03-2023,26,92.99,96.03,4.08,1,Neutral,N/A,0,97.2,1,Clicked,Active,70.94
+U0547,06-02-2022,Standard,22.01,1,13,11.3,08-02-2022,35,48.38,69.32,31.5,2,Negative,N/A,1,36.15,0,Clicked,Active,6.14
+U0548,04-01-2023,Basic,75.56,4,27,28.5,08-03-2023,4,49.04,80.14,57.55,4,Neutral,N/A,0,39.41,0,Not Clicked,Active,91.89
+U0549,26-11-2023,Basic,26.58,8,10,53.1,24-12-2023,32,11.97,39.76,95.06,2,Positive,Neutral,0,20.18,0,Clicked,Active,8.11
+U0550,09-06-2023,Standard,92.85,7,3,30.3,19-06-2023,48,80.27,33.63,85.91,1,Neutral,Neutral,1,7.05,1,Clicked,Active,91.42
+U0551,06-10-2022,Basic,57.15,9,9,5,10-01-2023,33,24.7,23.45,22.84,5,Positive,N/A,3,77.28,1,Clicked,Inactive,49.08
+U0552,05-08-2022,Standard,31,5,28,110.2,28-07-2023,29,89.96,48.06,22.01,5,Positive,N/A,0,24.97,1,Clicked,Active,44.81
+U0553,30-09-2022,Standard,47.27,4,12,102,20-04-2023,7,91.08,55.18,20.12,1,Positive,N/A,0,60.89,0,Clicked,Inactive,97.33
+U0554,03-03-2022,Premium,33.19,8,23,90.4,23-03-2022,38,94.33,63.18,92.25,4,Positive,Neutral,0,68.78,0,Clicked,Inactive,99.04
+U0555,19-08-2023,Basic,33.65,9,14,24.3,26-09-2023,46,52.02,25.71,85.27,5,Neutral,Neutral,3,47.12,0,Not Clicked,Active,65.02
+U0556,30-12-2023,Standard,95.85,7,1,18.8,08-08-2024,25,67.71,94.87,77.49,4,Positive,N/A,2,87.64,0,Not Clicked,Active,12.71
+U0557,08-12-2022,Standard,55.62,7,18,12.8,19-03-2023,36,77.85,16.98,39.27,5,Positive,Positive,4,44.38,0,Not Clicked,Inactive,50.62
+U0558,01-02-2023,Basic,83.1,5,17,88.3,18-03-2023,33,13.1,96.57,50.44,4,Positive,Negative,4,28.49,0,Clicked,Inactive,52.92
+U0559,30-11-2023,Premium,71.17,4,27,111.8,03-02-2024,6,60.1,1.49,46.43,5,Positive,N/A,3,89.6,0,Not Clicked,Inactive,51.44
+U0560,19-01-2022,Standard,74.11,1,9,54.5,19-04-2022,39,3.43,48.11,25.34,4,Positive,N/A,0,86.16,0,Clicked,Active,56.95
+U0561,26-06-2022,Standard,30.54,7,9,18.7,06-12-2022,27,49.76,33.34,50.5,2,Neutral,Neutral,4,16.4,0,Not Clicked,Active,1.87
+U0562,04-09-2023,Standard,38.73,1,23,63.9,23-12-2023,38,15.48,44.91,3.05,4,Positive,Neutral,3,2.6,1,Not Clicked,Active,71.12
+U0563,31-01-2023,Premium,82.94,1,10,45.1,03-01-2024,38,18.29,57.07,13.18,2,Neutral,N/A,1,9,0,Clicked,Inactive,71.24
+U0564,21-03-2023,Premium,97.66,5,19,48.1,21-07-2023,27,36.5,43.56,88.66,2,Positive,Negative,4,28.65,1,Not Clicked,Inactive,11.55
+U0565,21-08-2022,Standard,41.01,9,29,76.5,01-03-2023,13,43.24,41.48,75.17,1,Positive,N/A,1,97.23,0,Not Clicked,Inactive,57.02
+U0566,17-03-2022,Standard,41.73,6,15,87.7,23-06-2022,49,62.32,73.27,42.29,2,Neutral,N/A,0,55.85,0,Not Clicked,Active,56.84
+U0567,22-09-2022,Basic,57.83,3,5,17.7,09-07-2023,37,7.44,68.59,51.72,3,Neutral,N/A,4,37.33,0,Clicked,Inactive,68.25
+U0568,31-03-2023,Basic,98.71,3,15,9.1,05-09-2023,3,50.37,83.33,37,2,Positive,N/A,3,88.87,1,Not Clicked,Active,8.54
+U0569,19-12-2023,Standard,41.52,7,20,119.3,30-03-2024,41,18.26,25,74.08,4,Neutral,Neutral,2,45.31,0,Not Clicked,Active,62.65
+U0570,19-01-2023,Basic,52.56,6,23,31.8,26-10-2023,17,57.4,60.95,78.42,2,Negative,Neutral,4,31.52,1,Clicked,Active,28.08
+U0571,18-07-2023,Standard,91.32,9,25,11.2,29-08-2023,43,63.74,58.52,76.33,4,Negative,Neutral,4,94.12,0,Not Clicked,Inactive,50.7
+U0572,21-05-2023,Basic,20.23,6,28,26.8,12-08-2023,47,55.67,36.97,72.26,4,Neutral,Positive,4,84.95,0,Clicked,Inactive,77.33
+U0573,02-01-2023,Basic,23.18,5,2,9.5,11-07-2023,24,73.83,48.61,20.45,3,Neutral,Positive,4,84.37,1,Clicked,Active,70.56
+U0574,24-05-2022,Standard,68.33,7,13,50.1,13-07-2022,6,33.56,31.38,33.8,2,Positive,Positive,3,51.23,0,Not Clicked,Inactive,11.89
+U0575,10-03-2022,Premium,92.59,1,24,97.3,05-10-2022,37,76.51,14.18,46.98,2,Neutral,N/A,3,78.94,1,Not Clicked,Active,59.12
+U0576,09-04-2022,Basic,39.11,7,16,44.2,12-08-2022,27,43.28,21.38,33.08,5,Positive,Positive,2,17.94,0,Not Clicked,Active,96.91
+U0577,31-01-2023,Standard,57.57,3,15,56.1,09-04-2023,4,48.42,10.55,75.49,5,Negative,Positive,3,57.32,0,Not Clicked,Active,15.68
+U0578,25-01-2022,Premium,56.04,9,25,82.7,16-10-2022,2,64.81,68.31,32.94,1,Positive,Positive,3,98.38,1,Clicked,Active,85.29
+U0579,14-04-2023,Basic,57.84,6,10,63.5,27-12-2023,43,1.84,66.07,13.82,4,Positive,Negative,0,29.1,1,Clicked,Active,70.25
+U0580,29-04-2023,Premium,69.8,9,14,104.1,02-11-2023,30,65.4,95.06,39.9,3,Positive,Positive,0,79.44,0,Not Clicked,Active,77.4
+U0581,19-07-2023,Basic,57.58,5,10,104.6,04-03-2024,46,61.86,72.97,97.99,5,Positive,Neutral,1,49.05,1,Clicked,Inactive,28.2
+U0582,31-05-2022,Basic,55.8,7,25,6.1,05-12-2022,41,30.98,5.2,22.59,2,Positive,Positive,2,3.98,0,Not Clicked,Active,28.79
+U0583,24-05-2022,Premium,57.94,4,14,94.5,02-06-2022,19,8.58,88.42,61.22,1,Positive,N/A,0,76.3,1,Not Clicked,Inactive,90.6
+U0584,23-07-2023,Basic,67.27,7,26,58,13-11-2023,18,9.09,86.27,43.3,3,Neutral,N/A,2,16.86,0,Clicked,Active,35.98
+U0585,08-02-2022,Standard,62.96,1,23,118.7,24-04-2022,47,92.32,44.33,7.1,2,Neutral,N/A,2,63.15,0,Clicked,Inactive,6.3
+U0586,19-04-2022,Premium,88.33,7,9,60.6,29-09-2022,10,68.93,58.59,48.79,2,Positive,Neutral,4,8.57,0,Not Clicked,Inactive,60.06
+U0587,24-11-2023,Basic,23.96,8,25,118.5,16-02-2024,39,12.71,97.61,70.22,4,Neutral,Negative,2,94.69,0,Not Clicked,Inactive,12.48
+U0588,11-02-2022,Standard,86.67,5,14,91.8,31-03-2022,2,35.67,53.23,51.32,4,Positive,Neutral,4,29.17,0,Not Clicked,Active,79.66
+U0589,05-07-2022,Premium,87.51,2,3,33.6,26-05-2023,22,59.25,90.53,87.21,5,Positive,Neutral,1,22.65,0,Not Clicked,Inactive,64.17
+U0590,02-02-2023,Basic,42.79,5,20,66.9,28-07-2023,6,83.56,8.3,28.89,5,Neutral,Neutral,1,12.91,0,Clicked,Active,87.47
+U0591,11-08-2022,Premium,57.03,6,16,119.1,16-03-2023,22,4.37,19.11,8.62,2,Neutral,Positive,1,94.6,1,Clicked,Inactive,78.48
+U0592,26-09-2023,Standard,55.08,2,2,103.6,01-04-2024,6,23.66,44.08,93.66,2,Positive,N/A,4,71.19,0,Clicked,Active,11.21
+U0593,13-05-2022,Standard,37.48,6,10,16.2,23-04-2023,45,88.97,58.48,37.82,5,Positive,Positive,4,74.17,0,Clicked,Active,38.11
+U0594,12-06-2022,Standard,51.74,6,3,86.2,27-01-2023,33,0.92,81.62,57.64,5,Positive,Neutral,1,49.94,0,Clicked,Active,77.46
+U0595,03-08-2022,Basic,23.55,1,11,44.7,14-04-2023,41,20.14,98.83,79.2,2,Positive,Neutral,4,47.47,1,Clicked,Inactive,41.73
+U0596,23-08-2022,Premium,42.23,1,11,5.8,15-04-2023,18,95.9,38.89,32.43,3,Positive,Neutral,3,11,0,Clicked,Active,97.24
+U0597,20-10-2023,Premium,85.33,3,21,51.4,14-11-2023,8,61.34,4.74,71.62,2,Negative,N/A,3,55.98,0,Clicked,Inactive,73.57
+U0598,11-08-2023,Standard,42.76,3,21,32,21-10-2023,47,26.17,80.12,13.54,3,Neutral,Negative,4,24.69,0,Clicked,Inactive,1.55
+U0599,09-01-2022,Standard,85.46,4,22,99.2,26-09-2022,17,6.7,60.44,29.13,3,Neutral,Negative,4,97.71,0,Not Clicked,Inactive,88
+U0600,15-03-2022,Standard,62.53,2,13,43.8,23-11-2022,40,2.82,19.85,14.47,2,Positive,Neutral,0,79.66,0,Not Clicked,Active,10.08
+U0601,07-05-2023,Standard,90.39,9,7,100.2,01-02-2024,47,24.47,49.48,81.12,1,Neutral,Positive,0,41.3,0,Clicked,Inactive,14.05
+U0602,10-09-2022,Standard,65.98,7,23,5.1,10-01-2023,44,88.15,74.23,22.26,5,Positive,Neutral,2,15.13,0,Not Clicked,Active,73.45
+U0603,18-08-2022,Standard,22.37,7,17,40.4,08-01-2023,41,41.59,77.04,71.74,4,Positive,N/A,2,78.53,0,Clicked,Active,86.5
+U0604,03-06-2023,Standard,74.03,6,2,32.7,14-02-2024,24,72.03,49.96,94.33,2,Positive,N/A,2,12.21,0,Not Clicked,Inactive,53.63
+U0605,23-06-2022,Standard,23.59,3,12,31.9,13-11-2022,13,91.83,30.52,52.78,3,Neutral,N/A,1,18.93,0,Clicked,Inactive,28.9
+U0606,15-10-2023,Standard,56.05,6,25,12.8,29-06-2024,43,40.8,97.37,54,2,Negative,Positive,3,21.15,0,Not Clicked,Inactive,35.13
+U0607,17-06-2022,Basic,94.35,8,10,26.5,02-08-2022,24,19.13,66.34,46.1,5,Positive,Positive,1,55.69,1,Clicked,Active,34.29
+U0608,19-06-2022,Basic,33.22,8,18,68.9,04-06-2023,18,51.71,40.82,32.59,3,Positive,Neutral,4,78.71,1,Not Clicked,Active,32.67
+U0609,28-01-2023,Standard,51.19,9,22,38.5,09-02-2023,38,90.81,28.05,47.57,4,Positive,N/A,0,31.43,0,Clicked,Active,24.29
+U0610,26-09-2023,Standard,78.39,1,27,53,20-04-2024,14,80.44,73.11,60.28,4,Neutral,N/A,4,8.47,0,Not Clicked,Active,60.89
+U0611,13-07-2022,Standard,90.58,1,11,48.3,19-05-2023,15,6.58,24.22,98.6,4,Positive,N/A,4,46.45,0,Clicked,Active,90.04
+U0612,01-06-2023,Standard,73.68,3,16,105.7,21-01-2024,26,69.26,17.17,93.78,1,Positive,Negative,0,74.81,0,Clicked,Active,30.71
+U0613,29-01-2022,Standard,40.65,3,17,109.1,26-06-2022,39,57.19,52.98,86.22,3,Neutral,Positive,4,22.17,0,Not Clicked,Inactive,18.67
+U0614,14-06-2022,Standard,73.97,8,19,61.7,01-05-2023,9,90.75,29,88.91,3,Positive,Positive,2,21.99,0,Clicked,Inactive,83.86
+U0615,26-02-2023,Basic,43.74,1,18,43,30-07-2023,3,12.25,62.89,46.78,1,Positive,Positive,0,94.72,1,Not Clicked,Inactive,74.18
+U0616,05-12-2022,Standard,77.47,2,3,17.3,19-05-2023,18,53.4,11.79,65.74,3,Positive,Neutral,4,95.42,1,Clicked,Inactive,93.08
+U0617,10-10-2023,Standard,96.32,2,21,114.6,07-01-2024,27,87.95,65.49,89.51,1,Neutral,Positive,2,99.05,0,Clicked,Active,16.55
+U0618,11-05-2023,Premium,77.71,3,27,11.9,12-11-2023,20,41,28.33,39.3,2,Positive,N/A,2,80.77,0,Not Clicked,Active,14.43
+U0619,31-12-2022,Standard,89.03,6,26,39.2,13-11-2023,46,48.2,0.02,96.18,5,Negative,Negative,3,18.82,1,Clicked,Inactive,54.14
+U0620,08-12-2022,Basic,20.17,1,16,39.3,30-11-2023,13,7.05,12.69,41.58,4,Neutral,Neutral,2,21.2,1,Clicked,Active,61.44
+U0621,15-05-2023,Basic,77.41,2,6,41.8,04-11-2023,32,27.81,93.36,60.11,1,Positive,Positive,1,34.02,1,Not Clicked,Active,48.02
+U0622,19-10-2023,Basic,86.37,1,25,23.9,22-05-2024,47,32.45,86.74,70.98,1,Positive,Positive,0,31.81,0,Not Clicked,Active,59.9
+U0623,26-05-2023,Standard,23.24,5,12,95.1,13-02-2024,9,94.51,23.36,95.06,1,Positive,N/A,0,95.65,0,Not Clicked,Active,18.04
+U0624,23-11-2022,Basic,89.73,7,11,19.1,27-02-2023,18,28.27,77.84,24.46,2,Positive,Neutral,0,78.91,0,Clicked,Inactive,47.96
+U0625,05-08-2022,Standard,40.54,8,15,78,29-11-2022,29,46.09,60.86,74.61,1,Negative,Neutral,4,72.4,0,Not Clicked,Inactive,65.81
+U0626,28-10-2022,Standard,73.22,1,15,19.2,14-05-2023,21,67.13,97.09,52.08,5,Neutral,N/A,4,18.6,0,Clicked,Inactive,43.27
+U0627,12-05-2022,Basic,84.03,7,16,13.1,27-03-2023,2,16.22,37.36,26.86,5,Positive,Neutral,1,90.95,0,Clicked,Active,67.94
+U0628,11-03-2022,Standard,73.01,5,10,109.6,31-03-2022,36,48.64,68.15,77.66,4,Positive,Neutral,2,82.79,1,Not Clicked,Active,45.12
+U0629,09-09-2022,Basic,27.38,1,12,26.9,27-03-2023,40,73.85,6.35,55.22,2,Positive,N/A,4,16.36,1,Clicked,Inactive,33.36
+U0630,19-02-2023,Standard,67.71,3,28,99.4,25-01-2024,17,86.69,39.62,66.1,5,Positive,N/A,2,87.12,0,Clicked,Active,30.36
+U0631,21-03-2023,Basic,63.97,7,13,67.6,23-11-2023,10,62.63,96.38,32.29,3,Positive,Negative,2,27.22,1,Clicked,Active,41.09
+U0632,01-07-2022,Premium,92.03,1,4,14,02-04-2023,47,66.91,53.9,48.13,3,Positive,Neutral,4,8.09,0,Not Clicked,Inactive,2.31
+U0633,16-06-2022,Basic,52.34,7,7,114.9,06-03-2023,1,12.63,28.79,61.74,3,Negative,Neutral,4,65.68,1,Not Clicked,Inactive,66.85
+U0634,01-04-2022,Premium,45.69,5,22,33.4,28-05-2022,11,94.58,12.03,40.49,1,Positive,N/A,1,65.38,0,Not Clicked,Inactive,84.51
+U0635,15-12-2023,Standard,79.99,1,2,103.9,11-10-2024,5,13.26,70.35,19.84,1,Positive,Neutral,3,9.49,0,Clicked,Active,35.46
+U0636,15-06-2023,Premium,53.01,1,26,24.4,15-07-2023,42,77.47,64.49,96.16,3,Neutral,N/A,0,31.89,0,Not Clicked,Active,4.6
+U0637,08-02-2022,Standard,71.69,1,27,103.2,14-10-2022,39,26.48,37.39,51.15,4,Positive,N/A,4,99.28,0,Not Clicked,Inactive,98.68
+U0638,06-05-2022,Standard,71.72,9,27,6.5,06-08-2022,43,93.36,95.09,73.39,4,Positive,N/A,4,67.84,0,Clicked,Active,26.37
+U0639,27-03-2023,Standard,91.04,3,27,63.9,16-12-2023,28,72,2.22,41.1,1,Positive,Positive,2,73.01,0,Clicked,Inactive,12.66
+U0640,22-06-2022,Standard,67.9,5,15,93.5,19-03-2023,29,75.38,30.37,35.51,3,Positive,Positive,3,21.29,1,Clicked,Active,36.98
+U0641,15-10-2023,Standard,60.17,9,8,112.5,16-01-2024,1,21.91,92.11,40.72,4,Negative,Positive,4,7.88,0,Clicked,Inactive,73.86
+U0642,08-08-2022,Standard,31.11,6,7,109.6,08-01-2023,8,44.3,32.09,40.92,1,Negative,N/A,3,27.69,0,Not Clicked,Inactive,29.39
+U0643,30-09-2023,Standard,29.26,9,15,99.3,10-07-2024,46,61.78,25.23,54.42,3,Negative,Neutral,0,24.89,0,Clicked,Active,57.47
+U0644,27-02-2022,Basic,32.35,8,23,107.1,17-05-2022,1,77,53.42,54.35,2,Neutral,Positive,2,23.45,0,Clicked,Active,41.56
+U0645,22-10-2023,Basic,33.75,8,14,27.9,08-08-2024,28,10.4,82.38,49.72,3,Positive,Positive,1,19.28,0,Not Clicked,Inactive,11.78
+U0646,21-04-2023,Standard,71.03,1,8,37.7,13-07-2023,32,96.24,10.31,13.48,3,Negative,Neutral,0,57.48,1,Not Clicked,Inactive,33.03
+U0647,01-04-2023,Standard,79.28,9,28,38.2,30-03-2024,9,89.02,94.3,49.61,5,Negative,Positive,3,32.81,0,Not Clicked,Active,72.49
+U0648,27-12-2022,Standard,62.4,6,12,48.4,01-02-2023,33,27.03,79.51,16.91,5,Positive,Positive,3,82.03,0,Clicked,Inactive,61.2
+U0649,01-01-2022,Standard,86.32,9,13,50.2,08-12-2022,43,82.28,18.13,12.61,2,Positive,Negative,0,18.39,1,Clicked,Active,11.98
+U0650,22-01-2023,Premium,99.3,3,11,67.6,14-12-2023,7,51.83,71.2,93.26,2,Positive,Positive,3,46.46,0,Clicked,Active,16.33
+U0651,14-12-2022,Basic,85.6,3,17,23.4,02-08-2023,36,46.18,38.5,60.5,3,Positive,Positive,1,1.37,0,Clicked,Active,64.07
+U0652,09-07-2022,Basic,75.59,6,29,84.5,09-10-2022,32,31.44,40.23,65.95,4,Positive,N/A,1,48.17,1,Clicked,Inactive,81.34
+U0653,20-05-2023,Basic,62.6,9,17,24.3,19-04-2024,46,58.1,78.33,40.18,2,Negative,N/A,3,5.58,0,Not Clicked,Active,34.95
+U0654,10-07-2022,Standard,55.91,7,24,40.7,19-10-2022,5,72.99,96.28,90.9,3,Negative,Neutral,3,97.77,0,Clicked,Active,59.53
+U0655,23-05-2023,Premium,26.75,3,4,62.9,04-11-2023,43,41.09,12.67,63.79,1,Positive,Positive,1,79.06,1,Clicked,Inactive,17.06
+U0656,04-01-2023,Basic,51.95,3,21,96.6,11-06-2023,39,62.92,42.06,76.92,5,Positive,N/A,3,49.01,0,Clicked,Active,31.14
+U0657,13-02-2023,Standard,92.81,2,8,90,26-02-2023,44,69.93,48.09,36.86,4,Neutral,Neutral,4,8.66,0,Not Clicked,Active,2.03
+U0658,27-04-2022,Standard,84.64,9,5,79.2,07-12-2022,18,71.11,37.63,96,3,Neutral,Positive,2,59.24,1,Not Clicked,Active,76.83
+U0659,14-05-2022,Standard,37.28,3,26,22.9,25-07-2022,31,5.2,36.32,82.05,1,Positive,Positive,4,75.88,0,Not Clicked,Inactive,40.1
+U0660,27-02-2022,Standard,57.33,5,16,67.9,02-11-2022,26,85.97,5.23,85.39,5,Neutral,Positive,3,19.07,0,Clicked,Active,81.61
+U0661,10-07-2023,Basic,85.34,9,4,15.1,08-10-2023,0,45.83,68.55,17.22,1,Neutral,Neutral,3,56.82,1,Clicked,Inactive,70.84
+U0662,16-11-2023,Standard,25.39,8,28,48.4,18-06-2024,42,26.24,43.62,27.1,3,Negative,N/A,2,81.42,1,Clicked,Inactive,82.87
+U0663,03-11-2023,Standard,50.99,2,22,52.6,31-01-2024,32,24.18,19.48,28.56,2,Positive,N/A,3,76.82,0,Clicked,Inactive,28.57
+U0664,22-06-2022,Basic,88.15,3,29,9.6,20-07-2022,39,48.3,81.6,27.09,5,Positive,Neutral,2,80.3,0,Not Clicked,Inactive,18.51
+U0665,29-05-2022,Standard,52.31,2,15,36.5,29-03-2023,31,88.68,80.26,85.54,1,Negative,Neutral,1,87.93,1,Not Clicked,Active,97.19
+U0666,21-03-2022,Basic,26.21,8,12,114.9,26-10-2022,4,37.83,48.64,3.19,2,Positive,Negative,2,93.77,1,Not Clicked,Active,71.73
+U0667,01-08-2022,Standard,63.4,6,5,114.7,24-06-2023,16,74.97,29.85,7.61,4,Neutral,Neutral,2,40.55,0,Not Clicked,Inactive,83.4
+U0668,22-07-2022,Standard,88.94,6,23,45.5,21-02-2023,7,9.68,63.81,27.39,3,Positive,Positive,4,56.88,0,Not Clicked,Inactive,1.31
+U0669,17-08-2022,Standard,67.22,9,16,10,25-03-2023,41,47.61,28.82,19.99,3,Positive,Negative,3,79.07,0,Clicked,Active,35.45
+U0670,07-11-2023,Standard,38.1,8,14,25.6,18-12-2023,33,99.17,23.6,23.19,5,Positive,N/A,1,69.71,1,Not Clicked,Active,74.28
+U0671,15-08-2022,Basic,50.74,4,10,50.1,27-12-2022,8,77.04,73.05,79.79,1,Positive,Neutral,0,99.55,1,Clicked,Active,7.8
+U0672,21-10-2023,Standard,56.01,4,7,114,01-12-2023,22,21.05,4.03,56.31,4,Negative,N/A,2,1.37,1,Not Clicked,Active,56.73
+U0673,16-06-2023,Basic,66.34,9,13,21.2,26-11-2023,34,50.14,9.48,0.58,5,Positive,Neutral,0,35.51,1,Clicked,Active,42.91
+U0674,17-03-2023,Basic,80.75,1,20,92.8,11-03-2024,49,23.36,0.68,42.93,5,Neutral,Neutral,3,28.1,0,Clicked,Active,1.76
+U0675,06-02-2023,Premium,27.91,2,28,17.5,15-11-2023,6,40.96,15.29,40.79,1,Neutral,Positive,2,26.23,0,Not Clicked,Active,23.6
+U0676,16-02-2022,Basic,91.17,2,29,117.8,14-04-2022,14,78.01,6.9,11.39,4,Positive,Negative,0,22.25,1,Clicked,Active,28.48
+U0677,21-08-2022,Standard,20.98,6,5,48.9,18-06-2023,19,77.12,99.58,67.61,1,Neutral,N/A,4,70.91,1,Clicked,Active,11.19
+U0678,01-11-2022,Standard,49.6,4,29,94.2,18-09-2023,49,22.81,28.88,70.21,3,Positive,Negative,0,8.48,0,Clicked,Inactive,63.15
+U0679,10-06-2023,Basic,22.19,3,3,44.4,04-07-2023,24,92.22,14.93,72.09,2,Neutral,Positive,4,74.16,0,Clicked,Inactive,24.24
+U0680,23-05-2022,Basic,51.44,3,15,77.2,03-08-2022,2,59.26,24.1,72.85,3,Positive,Positive,1,69.34,1,Not Clicked,Inactive,27.76
+U0681,19-02-2023,Basic,62.07,3,4,27.1,27-06-2023,45,37.99,93.61,0.01,3,Positive,Neutral,3,25.08,0,Not Clicked,Active,89.82
+U0682,28-05-2023,Premium,60.93,6,15,21.8,22-08-2023,23,50.19,52.02,95.39,5,Positive,Neutral,0,25.28,0,Clicked,Active,46.71
+U0683,08-01-2023,Standard,33.25,8,14,112.9,03-12-2023,33,60.51,36.48,81.42,3,Neutral,Neutral,2,62.89,0,Clicked,Inactive,39.21
+U0684,20-07-2023,Basic,71.66,7,20,110.5,19-12-2023,45,55.99,87.34,90.4,4,Negative,N/A,3,76.22,0,Not Clicked,Inactive,72.39
+U0685,16-09-2022,Standard,23.58,4,19,107.1,16-03-2023,21,48.64,39.5,1.56,3,Positive,N/A,0,87.65,0,Clicked,Active,90.96
+U0686,18-10-2023,Standard,80.95,4,13,76.9,19-02-2024,10,50.49,33.5,93.39,4,Positive,Neutral,2,85.21,1,Clicked,Active,2.5
+U0687,16-04-2023,Basic,95.73,2,10,98,21-06-2023,47,17.64,20.73,80.98,1,Positive,Positive,2,96.49,0,Clicked,Active,44.82
+U0688,12-01-2022,Standard,47.18,1,21,12.9,17-01-2022,7,81.27,37.78,83.72,5,Neutral,Positive,2,58.14,0,Not Clicked,Active,61.08
+U0689,26-11-2022,Standard,61.38,9,5,43.5,30-03-2023,38,54.18,31.67,9.33,4,Positive,Negative,2,90.87,0,Clicked,Active,31.86
+U0690,24-12-2022,Premium,50.31,2,27,41.1,02-11-2023,42,13.11,67.73,73.88,3,Neutral,N/A,0,80.85,1,Clicked,Inactive,77.24
+U0691,12-02-2023,Basic,20.54,8,23,78.1,03-01-2024,34,76.62,28.96,95.99,5,Positive,N/A,1,89.47,1,Clicked,Active,97.15
+U0692,30-10-2023,Basic,50.87,9,20,45.9,21-12-2023,48,93.24,57.72,67.85,5,Positive,Neutral,4,1.16,1,Clicked,Inactive,94.34
+U0693,08-01-2023,Basic,83.34,4,29,22.1,14-03-2023,45,94.73,6.59,57.06,4,Neutral,Positive,4,96.59,1,Not Clicked,Inactive,26.6
+U0694,08-01-2022,Standard,67.68,8,20,73.6,17-11-2022,37,36.9,19.13,94.56,4,Neutral,N/A,4,47.35,0,Clicked,Inactive,22.63
+U0695,02-05-2022,Basic,28.1,9,25,98.7,22-07-2022,7,13.55,40.74,44.29,2,Neutral,N/A,1,79.82,0,Clicked,Inactive,95.75
+U0696,14-12-2022,Standard,87.77,5,6,48.9,10-03-2023,36,51.84,93.69,59.93,2,Positive,Neutral,2,12.72,0,Clicked,Inactive,45.86
+U0697,07-11-2023,Standard,62.49,7,4,20.2,08-11-2023,26,11.26,37.73,47.63,5,Neutral,Positive,2,39.59,0,Clicked,Active,20.83
+U0698,31-03-2022,Standard,87.34,4,2,27.6,20-10-2022,27,93.4,66.41,93.28,2,Positive,Neutral,3,27.15,1,Not Clicked,Inactive,70.7
+U0699,10-10-2023,Standard,66.42,1,22,32.3,07-03-2024,39,18.36,25.51,7.61,3,Negative,N/A,4,29.17,0,Not Clicked,Inactive,28.44
+U0700,29-11-2023,Premium,64.78,3,16,39.5,16-09-2024,33,25.28,12.7,50.11,1,Positive,Negative,4,12.33,1,Clicked,Active,26.72
+U0701,12-11-2022,Standard,28.42,5,18,78.9,22-02-2023,31,40.66,5.85,68.7,5,Positive,N/A,2,80.58,0,Clicked,Inactive,87.92
+U0702,27-06-2022,Standard,33.39,3,5,74.1,20-07-2022,14,38.32,30.54,79.19,1,Positive,Positive,4,0.92,0,Clicked,Inactive,16.25
+U0703,24-06-2023,Basic,97.76,7,22,85,21-01-2024,43,79.47,15.77,58.3,2,Positive,Positive,2,31.25,0,Not Clicked,Inactive,6.44
+U0704,10-02-2022,Premium,38.28,9,4,46.7,15-04-2022,16,45.63,17.4,90.89,4,Positive,Positive,2,17.44,0,Not Clicked,Active,26.92
+U0705,05-12-2023,Basic,98.2,6,13,99.8,30-06-2024,32,17.08,76.08,94.2,5,Neutral,N/A,2,58.9,0,Clicked,Active,60.69
+U0706,17-05-2023,Basic,62.55,1,19,28.5,22-01-2024,46,26.72,1.58,6.43,2,Neutral,Neutral,0,25.43,0,Not Clicked,Active,12.31
+U0707,25-05-2022,Basic,30.86,7,23,58.9,18-09-2022,45,50.91,55.78,40.24,3,Negative,N/A,0,25.9,0,Not Clicked,Active,47.16
+U0708,20-07-2022,Standard,27.94,3,2,97.1,12-11-2022,15,14.75,37.95,2.35,5,Positive,Positive,0,48.83,0,Not Clicked,Active,62.73
+U0709,25-12-2023,Basic,36.71,5,13,25.7,17-08-2024,28,61.17,50.65,32.94,5,Positive,N/A,0,65.27,0,Clicked,Active,84.87
+U0710,06-04-2023,Basic,94.05,4,11,17.6,19-07-2023,8,56.57,56.28,53.69,4,Neutral,N/A,1,12.13,0,Clicked,Inactive,22.99
+U0711,12-07-2023,Basic,53.13,5,22,106.6,26-03-2024,32,71.47,31.34,91.08,5,Positive,Positive,3,17.55,0,Clicked,Active,81.73
+U0712,01-07-2023,Basic,51.63,5,29,44.4,15-08-2023,48,93.77,29.51,84.66,4,Positive,N/A,3,24.72,0,Not Clicked,Active,23.49
+U0713,10-09-2022,Standard,45.06,6,4,83.6,17-07-2023,28,91.23,73.34,12.75,2,Neutral,Positive,2,97.37,0,Not Clicked,Active,67.68
+U0714,25-01-2023,Standard,31.76,6,22,7.9,21-12-2023,12,94.61,87.13,9.3,3,Positive,Positive,4,39.72,0,Not Clicked,Active,43.07
+U0715,17-08-2023,Basic,59.03,8,20,84.4,19-03-2024,20,24.47,19.26,58.93,3,Positive,Positive,0,59.9,0,Clicked,Active,11.47
+U0716,13-09-2022,Standard,30.4,8,20,41.4,10-07-2023,20,13.16,9.76,53.21,5,Neutral,N/A,3,24.15,0,Clicked,Active,71.43
+U0717,10-12-2023,Standard,86.84,9,15,11.4,06-11-2024,4,30.23,89.78,26.64,5,Positive,N/A,3,49.05,0,Clicked,Active,21.78
+U0718,26-03-2023,Basic,49.63,8,4,75.1,18-04-2023,9,89.51,34.99,89.95,2,Neutral,Neutral,0,7.41,0,Not Clicked,Active,17.66
+U0719,10-01-2022,Basic,49.98,2,9,32.7,13-02-2022,5,97.21,55.13,92.74,4,Positive,N/A,1,3.47,0,Clicked,Active,35.83
+U0720,30-08-2022,Premium,57.92,1,7,49.5,22-09-2022,12,85.93,35.95,40.26,3,Neutral,Negative,1,46.87,1,Clicked,Active,65.33
+U0721,08-09-2022,Standard,55.53,2,19,14.3,05-10-2022,0,11,12.58,89.03,4,Positive,N/A,3,39.87,0,Not Clicked,Active,23.4
+U0722,05-01-2022,Basic,99.59,2,19,21.9,20-01-2022,19,94.74,58.93,38.39,2,Neutral,Positive,1,13.69,0,Clicked,Active,18.37
+U0723,29-04-2022,Standard,63.63,3,6,39.3,26-06-2022,46,42.34,52.51,73.68,3,Positive,Neutral,0,68.76,1,Clicked,Active,1
+U0724,09-01-2023,Basic,27.06,7,6,15.3,08-09-2023,45,0.93,20.3,47.59,3,Neutral,Negative,3,99.29,0,Clicked,Inactive,47.16
+U0725,06-03-2022,Standard,68.55,2,20,109.7,28-09-2022,7,44.24,45.19,12.26,1,Positive,Positive,0,39.56,1,Not Clicked,Inactive,42.86
+U0726,26-05-2022,Basic,32.13,1,15,5.7,20-02-2023,9,4.61,79.69,92.79,2,Positive,Neutral,1,62.46,0,Not Clicked,Active,23.39
+U0727,12-08-2022,Basic,22.48,6,15,60.6,17-04-2023,8,54.39,59.04,45.41,2,Neutral,Negative,0,96.3,0,Not Clicked,Active,5.37
+U0728,27-08-2022,Basic,97.66,9,25,19.2,20-05-2023,48,33.86,9.69,73.45,1,Positive,Positive,1,83.15,1,Clicked,Inactive,42.93
+U0729,26-06-2022,Premium,81.88,3,20,40.4,04-01-2023,40,47.34,54.8,36.72,4,Positive,N/A,1,46.36,0,Not Clicked,Active,78.82
+U0730,09-10-2022,Standard,98.41,6,9,111.5,08-09-2023,2,61.32,70.27,1.89,1,Positive,Positive,0,73.75,0,Not Clicked,Inactive,71.53
+U0731,04-03-2022,Basic,58.23,3,4,23.6,07-10-2022,10,86.88,79.27,10.05,2,Positive,N/A,1,12.81,0,Not Clicked,Inactive,86.08
+U0732,05-08-2022,Basic,62.58,1,18,116.1,27-11-2022,11,66.19,62.91,49.62,4,Positive,Positive,2,51.21,0,Not Clicked,Inactive,0.96
+U0733,20-11-2023,Standard,33.47,5,18,28.7,26-01-2024,9,43.4,15.27,69,3,Positive,Positive,0,27.91,0,Clicked,Inactive,96.64
+U0734,06-04-2023,Basic,39.75,4,5,90.3,29-01-2024,24,81.94,71.02,33.47,1,Positive,Positive,2,16.12,0,Clicked,Inactive,34.14
+U0735,02-09-2023,Basic,87.08,7,20,67.9,22-07-2024,48,90.56,67.73,69.55,4,Neutral,N/A,0,42.63,1,Clicked,Inactive,99.04
+U0736,15-04-2022,Premium,48.49,6,23,106.7,28-06-2022,48,11.98,2.44,69.86,4,Positive,N/A,1,13.1,1,Not Clicked,Inactive,25.26
+U0737,09-04-2022,Basic,86.15,7,11,68.7,20-07-2022,24,53.19,41.17,70.39,4,Positive,Positive,1,69.9,0,Not Clicked,Inactive,47.15
+U0738,26-05-2023,Standard,76.72,5,5,66.5,17-03-2024,10,28.45,33.3,49.25,1,Negative,Positive,3,45.62,1,Not Clicked,Inactive,35.39
+U0739,20-01-2023,Premium,34.17,4,22,27.5,16-07-2023,35,4.71,66.94,91.49,3,Neutral,Negative,3,53.11,0,Clicked,Active,35.58
+U0740,09-02-2023,Basic,60.6,7,26,24.1,11-09-2023,38,66.85,21.61,48.92,4,Positive,Neutral,2,14.64,0,Clicked,Active,84.23
+U0741,02-06-2023,Basic,74.19,7,4,110.4,11-04-2024,25,86.28,59.09,45.03,1,Positive,N/A,1,13.98,1,Clicked,Inactive,74.64
+U0742,21-04-2023,Basic,38.8,6,29,42.7,29-05-2023,13,16.29,91.32,19.94,2,Negative,Positive,3,58.34,1,Not Clicked,Active,99.22
+U0743,10-12-2023,Premium,86.46,8,12,47.8,24-08-2024,38,81.24,79.78,30.77,1,Positive,Negative,1,98.5,1,Clicked,Inactive,61.35
+U0744,07-10-2023,Premium,63.59,4,2,92.4,27-04-2024,39,85.34,92.15,4.23,1,Positive,N/A,0,9.63,0,Not Clicked,Inactive,46.33
+U0745,13-03-2023,Standard,33.22,5,13,44,19-03-2023,0,91.43,97.85,63.35,1,Positive,N/A,3,28.57,0,Clicked,Inactive,9.01
+U0746,23-01-2022,Basic,66.64,4,10,114.5,12-03-2022,3,26.53,1.07,24.85,4,Neutral,Negative,2,86.95,1,Clicked,Inactive,99.66
+U0747,19-07-2023,Standard,99.98,1,9,89.9,13-08-2023,29,90.4,62.27,30.42,1,Positive,Positive,3,7.23,0,Not Clicked,Inactive,55.15
+U0748,08-11-2023,Premium,32.04,8,10,73.7,16-04-2024,11,32.07,41.28,77.08,2,Neutral,Positive,1,87.59,0,Clicked,Active,70.05
+U0749,15-12-2023,Standard,85.34,1,7,106.3,05-12-2024,34,55.23,85.99,32.72,4,Neutral,Negative,4,52.43,0,Clicked,Inactive,40.67
+U0750,03-04-2023,Premium,36.58,5,4,10.7,25-09-2023,12,5.05,25.18,24.22,2,Positive,Neutral,4,40.83,1,Clicked,Active,54.77
+U0751,24-03-2022,Premium,82.59,6,19,34.6,10-06-2022,30,4.39,98.1,16.91,5,Neutral,N/A,1,30.97,0,Clicked,Active,94.26
+U0752,25-05-2022,Standard,78.77,6,10,58.5,26-05-2022,37,72.04,61.37,77.49,1,Positive,N/A,0,29.71,0,Not Clicked,Active,16.64
+U0753,26-03-2022,Standard,44.04,5,3,31.1,04-08-2022,42,44.45,79.35,12.97,4,Positive,Neutral,3,30.58,0,Not Clicked,Active,29.24
+U0754,19-03-2022,Basic,46.07,3,25,90.5,19-12-2022,22,25.63,8.56,45.38,4,Positive,Neutral,4,88.48,0,Clicked,Active,15.21
+U0755,02-04-2023,Basic,83.4,5,21,110.7,27-07-2023,3,19.04,18.35,50.69,1,Positive,Neutral,0,72.38,1,Not Clicked,Active,79.22
+U0756,01-01-2022,Standard,56.92,8,29,53.7,13-06-2022,15,67,75.84,68.74,3,Positive,Positive,1,66.97,0,Clicked,Inactive,6.2
+U0757,20-02-2022,Basic,78.47,2,19,44.3,04-12-2022,6,0.04,2.2,63.33,3,Positive,Positive,0,79.87,0,Not Clicked,Inactive,8.16
+U0758,16-11-2023,Premium,31.84,6,21,115.6,13-12-2023,21,80.59,81.69,81.07,2,Positive,Neutral,1,25.71,0,Not Clicked,Active,29.85
+U0759,18-12-2023,Premium,88.2,9,2,56.2,14-11-2024,28,7.92,1.39,4.48,1,Positive,Positive,3,61.8,0,Not Clicked,Active,51.42
+U0760,22-03-2023,Standard,76.87,8,27,61.2,22-03-2023,10,19.15,65.71,29.64,1,Positive,Positive,0,46.01,0,Clicked,Inactive,40.63
+U0761,25-03-2023,Basic,92.56,8,20,45.4,28-09-2023,32,38.62,36.51,28.01,5,Neutral,Positive,3,78.24,0,Clicked,Inactive,4.48
+U0762,03-05-2023,Basic,30.59,8,10,109.6,27-06-2023,28,48.49,61.15,14.6,3,Positive,Positive,0,30.93,0,Clicked,Inactive,95.75
+U0763,03-02-2022,Basic,67.44,7,2,70.4,09-03-2022,38,35.5,69.6,28.92,3,Neutral,Positive,1,64.32,0,Not Clicked,Active,95.29
+U0764,14-12-2022,Standard,67.93,8,2,92.7,04-04-2023,11,32.07,34.25,30.98,1,Positive,Negative,1,88.22,1,Not Clicked,Inactive,27.94
+U0765,05-04-2022,Standard,48.28,6,28,98.4,15-01-2023,6,96.39,10.8,52.19,2,Positive,Neutral,0,40.22,1,Clicked,Active,73.15
+U0766,13-03-2022,Premium,56.68,2,24,44.3,16-01-2023,38,64.16,6.96,66.37,1,Positive,Neutral,1,6.66,0,Not Clicked,Inactive,57.86
+U0767,05-07-2023,Standard,23.04,2,17,54.9,09-08-2023,41,2.34,58.89,38.11,2,Positive,Negative,2,51.61,0,Clicked,Active,23.75
+U0768,03-06-2022,Premium,79.67,8,16,102.6,05-01-2023,47,43.02,52.07,71.95,3,Positive,N/A,2,34.6,1,Clicked,Active,26.22
+U0769,07-09-2022,Premium,63.95,1,16,46.8,25-11-2022,25,87.5,74.22,33.62,5,Positive,Positive,3,67.22,0,Clicked,Active,49.12
+U0770,05-11-2023,Basic,24.62,6,14,96.3,13-09-2024,39,30.15,50.97,29.03,4,Negative,Neutral,2,95.1,0,Clicked,Active,41.92
+U0771,14-03-2023,Premium,74.46,6,7,113.2,04-06-2023,8,9.46,42.24,54.12,3,Negative,Positive,2,48.56,1,Clicked,Active,29.12
+U0772,28-04-2022,Basic,57.34,4,21,76.7,01-07-2022,40,75.84,39.81,2.37,2,Positive,Neutral,4,46.62,0,Not Clicked,Inactive,80.75
+U0773,02-11-2022,Basic,22.76,3,11,90.3,22-09-2023,33,60.6,2.64,7.98,1,Neutral,N/A,4,65.46,0,Clicked,Inactive,48.15
+U0774,25-09-2022,Standard,97.57,3,24,97.6,30-01-2023,44,57.03,33.56,41.8,3,Positive,N/A,4,10.35,0,Clicked,Active,65.48
+U0775,23-02-2022,Basic,95.93,1,1,102.2,26-12-2022,12,5.36,97.6,94.29,5,Positive,Negative,4,25.35,0,Not Clicked,Active,18.93
+U0776,24-08-2022,Standard,61.03,3,11,50.4,14-09-2022,35,14.05,87.36,72.15,2,Neutral,Neutral,1,91.9,1,Clicked,Active,53.35
+U0777,24-01-2023,Standard,27.49,4,23,10.9,27-08-2023,24,62.25,32.94,8.81,1,Positive,Negative,3,66.99,0,Not Clicked,Inactive,31.8
+U0778,05-02-2023,Standard,80.37,5,21,51.2,22-05-2023,23,20.78,58.78,84.63,4,Positive,Positive,3,1.34,0,Clicked,Active,52.64
+U0779,16-09-2023,Basic,59.35,3,4,82.5,02-01-2024,43,50.41,84.73,73.23,2,Positive,Neutral,2,20.46,1,Not Clicked,Active,78.08
+U0780,30-10-2022,Standard,44.2,6,7,56.8,21-10-2023,16,54.49,44.13,61.09,1,Positive,Neutral,3,68.28,1,Not Clicked,Active,76.89
+U0781,26-07-2022,Standard,59.31,5,26,91.1,22-01-2023,1,28.35,1.8,82.03,4,Positive,Neutral,2,76.44,0,Clicked,Inactive,35.42
+U0782,17-08-2022,Standard,61.8,3,15,46.1,07-08-2023,12,94.84,7.45,40.41,1,Positive,Positive,3,83.99,0,Not Clicked,Active,69.43
+U0783,01-08-2023,Standard,65.02,6,18,78,11-01-2024,30,84.25,51.04,22.15,4,Positive,N/A,0,29.22,0,Not Clicked,Active,94.13
+U0784,16-03-2022,Basic,55.3,6,12,26.4,22-05-2022,28,72.24,96.94,51.2,4,Positive,Positive,0,93.1,1,Not Clicked,Inactive,62.57
+U0785,11-03-2023,Standard,68.46,8,17,91.2,27-12-2023,49,7.8,69.32,54.88,4,Neutral,Positive,3,55.29,0,Clicked,Inactive,14.84
+U0786,13-04-2022,Basic,93.5,2,1,67.8,09-10-2022,27,10.61,7.09,53.83,1,Positive,Neutral,1,69.65,0,Clicked,Inactive,67.97
+U0787,26-02-2023,Standard,48.98,1,11,28.5,25-08-2023,26,49.28,18.94,56.51,4,Neutral,Positive,2,59.67,0,Not Clicked,Active,10.49
+U0788,05-12-2023,Standard,78.06,4,28,38.6,21-05-2024,14,16.07,77.13,94.87,2,Neutral,N/A,3,12.27,0,Not Clicked,Active,87.21
+U0789,02-11-2022,Standard,91.56,7,1,91.1,23-11-2022,30,97.83,84.14,90.22,5,Neutral,Negative,2,96.31,0,Clicked,Inactive,51.67
+U0790,08-04-2022,Standard,56.48,3,15,60.5,12-06-2022,39,15.85,61.77,87.57,5,Neutral,N/A,4,12.29,0,Clicked,Inactive,38.51
+U0791,01-12-2022,Premium,55.48,3,28,29.8,21-12-2022,14,48.75,64.44,80.14,4,Positive,Neutral,3,25.49,0,Clicked,Active,5.7
+U0792,11-03-2023,Premium,68.17,5,21,116.2,18-06-2023,32,36.41,2.83,94.34,5,Positive,N/A,1,81.36,0,Clicked,Active,38.08
+U0793,23-03-2023,Premium,67.31,5,10,87.2,16-01-2024,19,63.94,82.85,9.85,5,Positive,N/A,4,61.86,0,Clicked,Active,90.32
+U0794,04-11-2022,Premium,84.53,3,7,115.1,14-02-2023,41,12.9,78.83,26.51,4,Negative,Neutral,3,83.81,0,Clicked,Active,2.1
+U0795,06-09-2022,Basic,58.12,9,2,54.1,22-10-2022,11,43.03,25.9,49.51,4,Positive,Neutral,0,51.57,1,Clicked,Inactive,47.46
+U0796,15-06-2022,Basic,99.69,4,10,59.6,23-07-2022,36,27.47,70.87,84.65,2,Positive,N/A,3,37.7,1,Clicked,Inactive,93.12
+U0797,26-04-2023,Standard,24.76,3,24,108.3,04-02-2024,8,88.78,21.49,50.52,3,Positive,Positive,0,92.18,0,Not Clicked,Active,39.48
+U0798,01-12-2022,Basic,20.25,2,4,65.4,06-10-2023,22,4.06,4.03,74.8,1,Negative,Neutral,0,3.63,0,Clicked,Active,42.82
+U0799,26-06-2023,Standard,71.22,9,12,86.3,23-09-2023,7,91.37,20.11,13.9,4,Positive,Positive,3,85.61,0,Clicked,Inactive,57.86
+U0800,16-04-2022,Basic,43.87,4,19,34,09-07-2022,31,83.3,17.86,25.24,4,Positive,Positive,3,23.08,0,Clicked,Active,46.29
+U0801,17-07-2023,Standard,39.23,3,26,56.4,14-04-2024,47,29.76,33.77,73.18,5,Positive,Positive,0,84.87,0,Not Clicked,Inactive,16.86
+U0802,22-03-2022,Standard,44.95,7,11,19.2,20-02-2023,13,78.93,41.84,16.47,2,Negative,Neutral,2,13.92,0,Not Clicked,Inactive,1.86
+U0803,13-05-2022,Standard,40.48,8,8,28.7,16-11-2022,26,3.12,50.85,35.14,5,Positive,Negative,4,58.02,1,Not Clicked,Inactive,60.98
+U0804,18-05-2022,Standard,22.46,2,18,5.1,23-10-2022,24,96.69,47.68,26.49,4,Positive,Positive,1,88.81,0,Clicked,Active,92.08
+U0805,03-07-2022,Premium,97.72,7,11,9.5,02-03-2023,12,52.66,27.07,34.99,4,Neutral,N/A,3,47.35,0,Not Clicked,Active,10.64
+U0806,05-02-2023,Standard,37.66,5,11,117.4,18-04-2023,20,30.33,2.92,70.83,5,Positive,Neutral,4,74.66,0,Clicked,Active,21.1
+U0807,26-11-2022,Premium,78.72,5,13,32.9,13-01-2023,44,36.26,60.51,36.78,4,Neutral,N/A,4,80.47,1,Clicked,Active,37.02
+U0808,23-05-2023,Basic,81.01,3,3,81.3,31-08-2023,30,6.64,39.57,55.53,3,Positive,N/A,2,73.65,0,Not Clicked,Active,80.87
+U0809,10-03-2022,Premium,94.34,5,12,101.5,11-03-2022,36,98.93,29.87,9.99,1,Positive,N/A,4,92.53,1,Not Clicked,Inactive,26.93
+U0810,30-06-2023,Standard,22.44,2,3,68.3,28-02-2024,47,3.93,86.69,80.5,1,Neutral,N/A,3,44.68,0,Not Clicked,Inactive,88.21
+U0811,22-02-2022,Basic,89.76,4,10,22.6,16-08-2022,42,65.49,74.67,36.99,1,Negative,N/A,4,17.31,1,Not Clicked,Inactive,5.5
+U0812,26-03-2023,Basic,62.18,6,27,88.7,18-11-2023,4,44.27,85.78,64.85,3,Positive,N/A,3,4.78,1,Not Clicked,Active,94.1
+U0813,24-07-2022,Standard,70.6,1,17,74,20-09-2022,12,94.89,49.5,72.54,4,Positive,Positive,3,24.65,1,Clicked,Inactive,56.07
+U0814,06-05-2022,Basic,71.56,4,22,89.1,23-04-2023,27,24.6,13.09,20.97,5,Neutral,Neutral,0,14.32,0,Clicked,Inactive,65.88
+U0815,12-02-2022,Basic,85.58,6,2,93.5,21-05-2022,42,53.21,69.62,88.47,2,Positive,N/A,2,55.79,0,Clicked,Active,36.77
+U0816,21-04-2022,Standard,46.67,9,17,117.2,14-04-2023,24,48.24,20.61,61.62,4,Negative,Neutral,1,18.49,0,Not Clicked,Inactive,78.2
+U0817,25-10-2023,Standard,78.64,2,16,71,26-10-2023,34,70.29,44.12,42.87,3,Negative,N/A,0,3.89,1,Clicked,Active,16.66
+U0818,02-07-2022,Standard,62.29,7,2,44.3,01-03-2023,46,6.8,6.5,18.23,3,Positive,N/A,1,3.6,0,Not Clicked,Active,4.89
+U0819,05-04-2022,Premium,83.47,6,28,79.6,26-01-2023,38,19.38,82.53,94.23,1,Negative,Positive,3,83.16,0,Clicked,Active,39.55
+U0820,09-01-2023,Standard,99.24,2,22,12.9,07-08-2023,6,21.46,12.59,75.51,4,Positive,N/A,0,59.14,0,Clicked,Inactive,85.37
+U0821,04-06-2023,Standard,36.05,8,20,108.2,04-10-2023,37,73.82,90.31,20.8,1,Neutral,Positive,4,35.81,0,Clicked,Inactive,75.49
+U0822,26-12-2022,Basic,99.57,7,6,18.7,11-08-2023,31,18.91,86.42,33.77,2,Positive,Neutral,4,89.42,0,Clicked,Active,51.72
+U0823,27-11-2023,Standard,27.18,5,28,42.7,16-02-2024,2,57.35,46.46,80.97,1,Neutral,Neutral,1,7.02,0,Not Clicked,Active,57.21
+U0824,08-10-2022,Basic,20.19,5,25,98.8,28-02-2023,44,21.52,74.44,69.57,2,Neutral,Positive,3,98.03,0,Clicked,Active,12.99
+U0825,14-07-2022,Premium,23.53,7,29,73.7,30-11-2022,38,86.16,61.94,76.58,3,Neutral,Neutral,1,61.63,0,Clicked,Active,84.07
+U0826,14-07-2022,Premium,47.34,9,10,50.3,11-08-2022,36,94.22,80.31,44.12,1,Negative,Neutral,2,18.35,1,Clicked,Active,78.7
+U0827,29-10-2023,Standard,70.63,9,28,59.4,24-07-2024,49,51.85,43.18,71.65,1,Positive,Positive,4,67.91,1,Clicked,Active,65.65
+U0828,03-04-2022,Basic,25.52,9,10,103.3,05-12-2022,21,35.23,78.58,38.65,5,Positive,N/A,0,76.34,1,Clicked,Active,46.62
+U0829,03-11-2023,Premium,20.45,6,8,44.1,14-11-2023,7,23.41,46.25,21.13,3,Neutral,Negative,0,42.93,0,Clicked,Inactive,96.45
+U0830,02-03-2022,Standard,94.97,6,1,105,19-02-2023,16,4.98,94.1,63.27,5,Neutral,Neutral,0,86.16,1,Not Clicked,Active,87.9
+U0831,26-09-2023,Basic,85.75,3,13,15.1,27-08-2024,26,26.85,48.64,97.6,2,Negative,Positive,4,15.07,0,Clicked,Inactive,64.44
+U0832,20-02-2022,Basic,84.73,1,24,94.3,05-06-2022,32,65.42,46.26,31.06,2,Negative,N/A,3,27.88,0,Clicked,Active,37.18
+U0833,07-02-2023,Standard,90.75,7,9,102.5,10-03-2023,45,53.36,78.51,46.1,3,Positive,N/A,4,9.35,0,Not Clicked,Active,61.8
+U0834,05-01-2022,Basic,76,4,22,25.9,19-03-2022,16,94.4,82.16,67.4,2,Positive,Positive,4,21.09,0,Clicked,Active,57.54
+U0835,11-04-2023,Premium,28.35,1,10,54.5,28-09-2023,41,39.63,55.45,54.15,3,Positive,Positive,0,23.87,0,Clicked,Active,39.42
+U0836,27-08-2023,Standard,51.93,8,15,24,28-07-2024,11,69.39,17.98,84.34,2,Neutral,N/A,4,91.76,1,Not Clicked,Active,30.67
+U0837,13-11-2023,Basic,77.85,6,5,86.3,20-01-2024,47,48.93,46.78,76.17,4,Positive,Negative,0,7.81,0,Clicked,Inactive,40.7
+U0838,18-06-2023,Premium,42.43,6,22,66.6,13-04-2024,45,51.26,96.81,5.83,1,Neutral,Positive,3,42.74,0,Not Clicked,Inactive,57.39
+U0839,09-02-2023,Basic,74.99,2,16,78.1,05-02-2024,26,26.78,75.3,99.84,4,Positive,Neutral,2,53.24,0,Clicked,Active,42.81
+U0840,28-05-2023,Standard,21.96,1,13,27.6,11-10-2023,47,45.5,81.12,75.24,3,Positive,Neutral,0,89.87,0,Not Clicked,Active,26.36
+U0841,07-10-2023,Basic,44.49,2,22,29.4,14-01-2024,7,47.08,3.28,86.39,3,Positive,N/A,1,99.77,0,Not Clicked,Inactive,76.1
+U0842,21-08-2022,Basic,63.93,4,25,9.8,13-01-2023,22,70.66,46.79,65.12,4,Positive,Positive,2,75.34,0,Clicked,Active,53.15
+U0843,08-06-2023,Standard,70.57,2,20,42,16-06-2023,41,94.06,64.66,85.63,1,Neutral,Neutral,3,97.08,1,Clicked,Inactive,6.77
+U0844,12-12-2022,Standard,66.16,1,18,69.4,11-02-2023,48,32.93,83,11.24,1,Positive,Positive,2,78.71,0,Clicked,Inactive,36.83
+U0845,15-02-2022,Standard,75.82,7,11,103.7,18-08-2022,28,4.22,4.93,34.77,5,Positive,N/A,0,96.32,0,Clicked,Inactive,88.49
+U0846,30-06-2023,Standard,20.49,8,27,81.7,28-07-2023,49,49.63,85.24,87.64,2,Positive,N/A,3,70.73,1,Not Clicked,Active,75.52
+U0847,19-03-2022,Standard,28.08,6,9,55.1,10-07-2022,19,54.45,54.84,20.17,5,Neutral,N/A,1,7.98,1,Not Clicked,Active,32.32
+U0848,31-12-2023,Basic,89.52,4,16,114.6,21-05-2024,15,16.84,19.73,7.82,1,Neutral,Negative,0,40.19,1,Clicked,Active,93.82
+U0849,14-03-2022,Basic,74.54,6,2,87.7,11-07-2022,16,76.05,31.73,78.81,4,Positive,Neutral,0,64.66,0,Not Clicked,Inactive,7.66
+U0850,06-09-2022,Premium,29.03,3,26,112,22-02-2023,15,98.49,28.19,83.55,2,Neutral,N/A,3,35.07,0,Clicked,Inactive,96.12
+U0851,16-02-2022,Standard,87.37,8,25,65.7,22-07-2022,18,94.58,53.09,16.27,4,Positive,Positive,3,27.34,0,Not Clicked,Inactive,24.57
+U0852,01-05-2022,Standard,39.38,2,2,34.8,31-03-2023,7,19.71,5.17,85.43,5,Positive,N/A,2,57.74,1,Not Clicked,Inactive,0.91
+U0853,02-08-2022,Basic,58.26,5,12,11.1,16-07-2023,37,87.54,15.85,68.68,3,Neutral,Positive,1,93.35,1,Not Clicked,Inactive,43.38
+U0854,27-08-2022,Basic,31.62,1,8,88.5,13-05-2023,37,70.45,81.27,52.01,4,Positive,Neutral,2,3.5,0,Clicked,Inactive,35.9
+U0855,25-02-2022,Standard,76.81,6,9,18.9,17-05-2022,28,45.38,13.26,83.03,5,Neutral,Neutral,2,76.92,0,Not Clicked,Inactive,53.91
+U0856,16-12-2022,Premium,73.35,2,12,39.8,14-08-2023,40,54.06,23.34,41.92,5,Positive,N/A,0,72.27,1,Clicked,Inactive,79.68
+U0857,17-04-2022,Standard,36.89,4,26,66.2,05-10-2022,35,84.96,45.34,19.4,5,Negative,N/A,3,96.4,0,Not Clicked,Active,84.24
+U0858,17-02-2022,Premium,89.07,6,9,69.9,05-10-2022,25,48.01,51.71,28.49,3,Positive,Neutral,0,93.07,0,Clicked,Active,40.12
+U0859,27-07-2023,Standard,52.1,8,10,74.1,19-02-2024,30,37.32,76.36,50.52,3,Positive,Neutral,1,76.22,0,Clicked,Inactive,42.98
+U0860,03-12-2022,Basic,43.4,8,25,24.1,15-02-2023,43,49.32,44.73,53.13,3,Negative,N/A,2,52.04,0,Not Clicked,Active,14.82
+U0861,26-01-2022,Standard,32.19,6,2,48.7,22-10-2022,11,57.91,78.99,80.56,2,Positive,Positive,1,20.43,1,Not Clicked,Active,4.75
+U0862,14-09-2022,Basic,41.29,4,16,76,05-01-2023,16,18.91,61.83,79.14,3,Positive,N/A,3,54.52,0,Clicked,Inactive,64.12
+U0863,08-01-2022,Basic,21.76,8,20,116.5,10-03-2022,14,90.09,11.31,58.14,3,Positive,Negative,3,76.54,0,Not Clicked,Inactive,6.44
+U0864,17-09-2023,Premium,66.66,8,7,88.7,12-09-2024,8,67.42,15.63,78.08,3,Positive,Neutral,4,89.57,0,Not Clicked,Inactive,73.38
+U0865,10-09-2022,Standard,87.38,1,28,111.1,26-07-2023,38,63.33,43.7,19.18,4,Positive,Positive,1,78.97,0,Not Clicked,Active,53.91
+U0866,23-11-2023,Standard,63.92,4,2,92.7,03-03-2024,41,9.95,39.69,5.01,3,Positive,Neutral,0,19.53,0,Not Clicked,Inactive,19.86
+U0867,20-12-2023,Basic,37.54,4,1,73,15-12-2024,47,60.42,74.35,87.36,2,Neutral,Positive,1,59.97,0,Clicked,Active,53.95
+U0868,30-10-2022,Basic,22.69,7,19,27.1,27-05-2023,11,12.1,58.07,7.56,5,Positive,Positive,2,33.22,0,Not Clicked,Inactive,18.3
+U0869,01-10-2023,Basic,37.17,7,28,81.7,11-06-2024,31,7.87,38.81,24.67,4,Neutral,Positive,3,0.92,0,Clicked,Active,43.87
+U0870,25-02-2022,Basic,53.29,8,4,76.7,16-03-2022,24,52.73,17.08,69.53,1,Positive,Neutral,3,20.02,1,Clicked,Inactive,79.96
+U0871,27-12-2023,Standard,80.77,5,24,74.3,22-02-2024,38,40.28,22.68,40.94,3,Positive,Negative,1,11.32,0,Not Clicked,Inactive,46.19
+U0872,10-06-2023,Basic,35.03,7,22,61.3,29-09-2023,17,58.88,57.55,87.63,5,Positive,N/A,1,84.27,0,Not Clicked,Active,14.87
+U0873,19-04-2023,Standard,77.58,8,27,65.8,25-02-2024,14,8.92,42.34,29.8,5,Positive,Positive,1,25.85,1,Not Clicked,Inactive,72.38
+U0874,28-01-2022,Basic,89.35,9,2,43.5,11-08-2022,31,43.1,51.49,1.19,4,Positive,Neutral,2,28.47,0,Not Clicked,Inactive,18.68
+U0875,19-03-2022,Basic,56.32,3,25,64.7,06-03-2023,5,17.48,17.07,30.07,1,Positive,Neutral,2,95.99,1,Not Clicked,Active,73.85
+U0876,04-08-2022,Basic,85.71,3,14,27.7,03-11-2022,43,98.71,66.29,57.81,2,Positive,Neutral,0,37.91,0,Clicked,Active,47.94
+U0877,21-01-2023,Standard,64.37,4,2,97.6,13-03-2023,42,56.12,85.25,37.59,5,Positive,N/A,1,0.96,1,Not Clicked,Active,45.37
+U0878,31-12-2022,Standard,70.97,5,29,26.4,19-10-2023,34,68.74,25.79,53.49,5,Positive,Neutral,0,28.38,1,Clicked,Active,85.14
+U0879,28-10-2023,Standard,62.1,1,15,14.8,04-11-2023,33,32.54,49.15,87.66,5,Positive,N/A,4,11.93,0,Not Clicked,Inactive,70.86
+U0880,10-06-2023,Standard,57.05,7,12,55.2,04-04-2024,37,9.47,97.55,91.25,5,Neutral,Neutral,2,10.28,1,Not Clicked,Inactive,3.29
+U0881,30-11-2023,Standard,38.77,9,5,80.7,06-03-2024,4,97.59,33.32,26.6,4,Positive,Negative,3,7.75,1,Not Clicked,Active,29.62
+U0882,08-11-2022,Basic,44.26,8,28,55.3,01-07-2023,17,28.63,59.5,46.21,1,Positive,Neutral,4,59.33,0,Clicked,Active,87.09
+U0883,07-01-2022,Basic,43.2,5,20,36.8,16-03-2022,15,42.38,9.02,54.91,5,Positive,N/A,3,18.93,0,Not Clicked,Active,1.83
+U0884,03-01-2022,Premium,65.06,4,29,69.2,16-02-2022,7,64.99,60.6,94.91,2,Positive,N/A,4,36.12,0,Not Clicked,Active,54.53
+U0885,15-09-2023,Standard,29.6,7,7,44.9,29-01-2024,24,2.47,8.96,99.86,2,Positive,Negative,0,86.2,1,Not Clicked,Active,72.78
+U0886,29-12-2022,Basic,93.34,5,24,112.3,19-08-2023,31,81.03,95.92,23.54,3,Negative,N/A,0,42.43,0,Clicked,Active,62.19
+U0887,23-05-2023,Premium,77.65,7,21,111.1,23-06-2023,25,53.66,71.57,72.7,5,Neutral,Positive,2,91.57,0,Not Clicked,Active,76.05
+U0888,01-10-2022,Standard,52.12,1,10,62.8,16-07-2023,21,27.82,78.82,37.8,5,Neutral,N/A,3,49.79,0,Not Clicked,Inactive,72.57
+U0889,21-05-2023,Basic,32.69,1,14,42.7,23-09-2023,30,6.16,70.41,0.81,5,Neutral,Positive,4,39.88,0,Not Clicked,Inactive,69.2
+U0890,15-01-2022,Standard,90.56,3,14,89.8,22-03-2022,42,16.25,58.97,0.93,5,Positive,Positive,1,75.04,0,Not Clicked,Active,82.15
+U0891,11-07-2022,Standard,85.9,2,5,9.2,09-08-2022,9,89.5,44.99,46.06,5,Positive,Positive,1,7.32,0,Clicked,Inactive,64.57
+U0892,23-09-2023,Standard,77.74,2,18,59.6,14-01-2024,11,68.6,85.84,48.83,2,Neutral,N/A,2,8.95,1,Clicked,Inactive,40.24
+U0893,30-04-2023,Basic,41.72,7,24,43.7,19-11-2023,27,24.99,95.68,2.26,1,Positive,N/A,3,65.2,0,Clicked,Inactive,47.19
+U0894,28-01-2022,Basic,52.2,2,14,110.9,25-02-2022,5,6.56,49.9,68.69,1,Positive,N/A,1,48.69,0,Clicked,Active,71.67
+U0895,15-12-2023,Standard,28.22,4,2,6.4,23-04-2024,19,69.06,93.15,29.4,3,Neutral,N/A,2,79.04,0,Not Clicked,Inactive,87.63
+U0896,08-02-2022,Standard,35.12,2,26,68.6,11-08-2022,4,57.24,58.33,55.99,2,Neutral,Neutral,2,91.63,0,Clicked,Inactive,27.22
+U0897,30-09-2022,Premium,82.64,6,12,90.2,09-06-2023,22,40.45,53.84,30.09,5,Positive,N/A,3,38.84,0,Clicked,Active,34.21
+U0898,19-08-2022,Standard,77.2,8,22,60.8,31-05-2023,8,36.36,45.45,16.71,1,Positive,N/A,1,59.64,0,Clicked,Active,93.07
+U0899,27-03-2022,Basic,67.48,4,24,14.8,27-05-2022,28,21.68,20.93,40.72,4,Neutral,Neutral,1,50.07,0,Not Clicked,Inactive,57.85
+U0900,19-04-2023,Standard,91.66,5,6,116.8,21-04-2023,15,66.96,0.37,23.23,4,Neutral,Positive,1,98.16,0,Clicked,Inactive,17.9
+U0901,06-05-2022,Basic,66.66,4,4,64.6,12-07-2022,45,97.07,24.15,53.48,4,Neutral,Negative,0,83.11,0,Clicked,Inactive,66.37
+U0902,21-06-2023,Standard,57.36,3,13,75.6,15-07-2023,21,17.57,50.97,19.88,5,Negative,N/A,1,91.17,0,Clicked,Inactive,99.08
+U0903,25-05-2022,Standard,47.23,5,4,32.2,19-11-2022,7,59.71,38,50.84,5,Positive,N/A,4,25.43,1,Clicked,Inactive,82.35
+U0904,09-06-2023,Basic,95.24,9,22,60.6,27-10-2023,19,42.42,44.85,15.74,3,Positive,N/A,0,77.25,0,Not Clicked,Active,74.57
+U0905,31-07-2022,Standard,26.62,8,14,54.4,18-03-2023,13,44.67,98.06,67.1,3,Positive,N/A,0,26.55,1,Clicked,Active,20.8
+U0906,25-01-2022,Basic,94.47,8,16,13.6,20-11-2022,38,25.41,35.03,75.39,3,Positive,N/A,0,20.87,1,Not Clicked,Inactive,87.61
+U0907,03-08-2023,Basic,86.14,8,29,17.2,12-01-2024,36,82.51,45.22,11.04,4,Negative,N/A,0,94.43,0,Not Clicked,Active,52.58
+U0908,29-01-2023,Basic,30.39,8,4,101.3,05-12-2023,49,48.53,13.35,46.78,5,Negative,N/A,2,1.93,1,Not Clicked,Active,88.93
+U0909,08-03-2022,Basic,65.2,7,24,32.6,15-07-2022,33,54.34,4.8,7.09,4,Positive,Positive,4,96.54,0,Not Clicked,Inactive,32.98
+U0910,21-08-2022,Premium,89.32,8,25,27.4,23-04-2023,10,30.48,77.54,59.82,3,Positive,Negative,3,14.93,0,Not Clicked,Inactive,6.21
+U0911,19-04-2022,Standard,65.74,8,1,63.1,09-02-2023,39,18.18,57.07,26.44,5,Positive,Neutral,1,81.94,0,Clicked,Active,47.6
+U0912,26-05-2022,Basic,92.58,8,13,93.4,13-11-2022,32,8.59,76.07,52.76,2,Neutral,N/A,0,27.59,1,Not Clicked,Active,26.98
+U0913,21-04-2022,Standard,95.44,7,4,12.1,23-06-2022,30,71.41,14.99,51.75,1,Positive,Neutral,3,35.07,0,Clicked,Active,71.52
+U0914,16-08-2022,Basic,53.79,1,20,71.3,15-09-2022,43,19.62,57.18,92.44,1,Positive,Positive,2,21.68,1,Clicked,Active,95.71
+U0915,21-04-2022,Premium,50.19,4,18,18.7,06-06-2022,33,69.01,25.36,54.91,3,Positive,Positive,3,58.55,0,Not Clicked,Inactive,69.1
+U0916,15-04-2023,Standard,94.91,4,6,9.2,22-08-2023,49,39.04,22.81,58.3,4,Positive,Negative,0,34.81,1,Not Clicked,Active,88.69
+U0917,03-02-2022,Standard,74.01,5,3,11.1,20-01-2023,6,41.58,1.15,40.17,2,Negative,Neutral,4,65.74,0,Not Clicked,Inactive,45.3
+U0918,15-09-2023,Basic,29.28,6,23,100.9,12-08-2024,48,46.92,13.03,94.91,5,Positive,Neutral,3,1.56,0,Not Clicked,Inactive,77.16
+U0919,04-01-2023,Standard,23.38,4,13,18.6,23-04-2023,22,36.77,30.93,77.72,4,Positive,Positive,0,6.44,0,Clicked,Inactive,84.3
+U0920,18-08-2023,Standard,65.17,2,27,10.2,25-10-2023,45,10.06,11.69,28.54,3,Positive,Neutral,0,9.97,0,Not Clicked,Active,71.09
+U0921,08-07-2023,Premium,94.41,6,16,55.4,03-09-2023,6,30.96,98.59,84.42,4,Positive,Positive,1,41.9,0,Clicked,Active,50.78
+U0922,01-03-2023,Basic,87.54,8,27,102.1,14-06-2023,24,66.37,30.86,43.24,3,Neutral,Neutral,1,81.48,1,Clicked,Active,62.59
+U0923,05-09-2023,Basic,74.07,8,5,35.2,30-06-2024,2,66.58,13.03,82.87,1,Positive,Neutral,4,88.82,0,Not Clicked,Active,70.05
+U0924,02-06-2023,Premium,31.13,7,4,53.5,26-04-2024,37,28.62,19.91,82.29,1,Positive,Neutral,1,24.48,1,Clicked,Inactive,25.31
+U0925,23-11-2023,Standard,40.34,6,21,9.6,04-08-2024,19,46.01,58.77,18.89,4,Neutral,Neutral,4,57.44,0,Not Clicked,Active,80.96
+U0926,09-10-2022,Basic,90.04,2,8,56.6,16-08-2023,33,19.34,6.4,70.11,2,Positive,Positive,2,76.84,1,Not Clicked,Inactive,95.03
+U0927,16-11-2022,Basic,34.62,7,19,71.4,05-05-2023,48,21.04,86.24,29.06,5,Neutral,N/A,2,28.88,0,Clicked,Active,46.52
+U0928,19-03-2023,Premium,42.28,5,14,70.7,27-08-2023,43,2.3,96.15,29.75,3,Positive,Neutral,1,40.9,0,Not Clicked,Active,70.11
+U0929,11-11-2022,Basic,30.37,6,7,43.2,23-08-2023,43,89.67,24.67,29.63,5,Positive,Positive,2,52.4,1,Not Clicked,Inactive,73.7
+U0930,12-01-2023,Standard,74.09,8,14,41.3,23-03-2023,29,21.07,45.01,72.56,1,Neutral,Positive,3,13.49,0,Clicked,Active,66.22
+U0931,16-10-2022,Standard,95.52,8,6,17.3,27-06-2023,16,22.75,2.21,22.98,2,Neutral,Neutral,3,2.6,0,Clicked,Active,54.71
+U0932,13-03-2023,Basic,41.52,3,12,47.2,06-05-2023,9,27.96,64.07,0.09,2,Positive,Positive,3,15.28,0,Not Clicked,Active,88.16
+U0933,24-10-2023,Standard,58.03,7,16,16.4,10-09-2024,34,12.74,41.39,71.52,5,Positive,Positive,2,62.69,0,Clicked,Active,44.89
+U0934,04-10-2022,Basic,70.75,1,17,93.2,06-10-2022,19,63.93,27.01,17.12,1,Positive,Negative,3,7.36,0,Not Clicked,Inactive,6.11
+U0935,11-12-2023,Basic,99.96,1,13,116.1,05-01-2024,17,7.51,20.68,10.45,5,Positive,Negative,4,18.97,1,Clicked,Active,84.46
+U0936,05-08-2023,Standard,28.38,7,23,116.6,12-06-2024,44,13.42,65.4,23.75,4,Positive,Neutral,0,33.79,0,Not Clicked,Active,67.4
+U0937,18-05-2023,Premium,59.89,9,14,104.5,20-09-2023,43,64.48,41.62,37.99,2,Neutral,N/A,1,7.79,0,Not Clicked,Active,84.93
+U0938,16-09-2023,Standard,50.81,7,29,74.1,07-11-2023,26,33.97,17.97,47.59,2,Positive,Positive,4,19.17,0,Clicked,Inactive,13.85
+U0939,31-05-2023,Standard,89.27,5,7,85.6,14-12-2023,48,70.79,68.91,4.46,4,Positive,N/A,3,91.13,0,Not Clicked,Active,3.08
+U0940,16-12-2022,Basic,58.08,8,14,37.8,10-10-2023,35,55.74,56.51,97.06,1,Positive,Positive,0,1.93,0,Not Clicked,Active,93.44
+U0941,22-03-2023,Basic,28.88,2,15,77.5,25-09-2023,22,25.6,85.87,71.61,2,Positive,Negative,1,65.34,1,Not Clicked,Active,14.77
+U0942,16-12-2022,Basic,70.75,9,12,57.4,19-06-2023,31,65.08,11.75,32.32,3,Neutral,Positive,4,38.44,1,Not Clicked,Active,80.97
+U0943,30-08-2023,Basic,81.66,6,17,60.4,29-06-2024,9,11.63,78.57,31.87,3,Positive,N/A,1,67.26,0,Not Clicked,Active,82.32
+U0944,26-10-2023,Basic,20.23,9,9,92.1,18-08-2024,10,53.64,67.35,44.85,1,Positive,Neutral,2,58.87,1,Not Clicked,Active,70.87
+U0945,17-05-2022,Basic,88.72,2,22,37.4,06-12-2022,37,43.71,11.5,62.62,4,Negative,Positive,3,22.35,0,Not Clicked,Active,13.13
+U0946,31-08-2022,Basic,34.88,3,15,41.6,10-09-2022,5,26.79,69.48,14.64,5,Positive,Negative,4,84.72,1,Not Clicked,Active,66.74
+U0947,27-06-2023,Basic,64.17,8,12,111.3,19-06-2024,40,60.4,44.15,18.89,1,Positive,Positive,4,49.19,0,Clicked,Active,88.91
+U0948,09-02-2022,Standard,53.26,1,2,11.5,28-01-2023,46,87.13,94.5,85.94,5,Positive,N/A,0,82.25,0,Not Clicked,Inactive,42.55
+U0949,17-08-2022,Premium,77.57,7,5,60.8,09-01-2023,33,99.89,14.16,25.63,1,Negative,Negative,0,40.6,0,Clicked,Inactive,41.35
+U0950,02-07-2023,Basic,49.69,7,13,110,24-09-2023,35,60.78,64.28,38.02,3,Negative,Positive,0,98.47,0,Clicked,Active,44.29
+U0951,11-08-2022,Premium,89.58,1,27,75.2,18-11-2022,36,40.47,38.2,87.13,4,Positive,Neutral,1,77.05,0,Clicked,Active,8.23
+U0952,06-01-2022,Premium,78.44,9,20,67.8,19-04-2022,16,22.52,95.68,66.31,3,Positive,Positive,3,96.6,0,Clicked,Inactive,89.2
+U0953,18-11-2022,Basic,71.82,8,23,33.7,02-01-2023,39,25.71,33,34.17,4,Negative,Negative,1,51.43,0,Clicked,Inactive,86.92
+U0954,13-04-2023,Standard,83.7,4,8,44.5,26-05-2023,39,47.95,96.22,68.37,5,Positive,Neutral,3,47.37,0,Clicked,Active,99.79
+U0955,16-03-2022,Standard,80.32,5,27,103,18-12-2022,11,36.73,90.15,1.97,1,Positive,Neutral,4,75.55,0,Clicked,Inactive,58.52
+U0956,04-01-2022,Standard,22.88,2,14,69.3,03-07-2022,20,91.38,27.04,73.56,2,Neutral,N/A,1,88.03,0,Not Clicked,Active,75.12
+U0957,08-10-2023,Basic,51.58,9,15,64.2,11-04-2024,39,36.83,80.35,48.7,2,Positive,Positive,1,96.41,0,Clicked,Active,20.27
+U0958,28-04-2022,Standard,94.46,6,11,16.5,19-08-2022,18,37.34,99.56,81.32,4,Positive,N/A,1,32.46,0,Clicked,Inactive,66.75
+U0959,29-08-2023,Basic,30.06,3,1,6.8,09-05-2024,2,38.35,25.27,95.46,4,Neutral,Negative,2,79.87,0,Clicked,Inactive,64.97
+U0960,19-05-2023,Standard,78.97,7,21,115.8,17-06-2023,17,83.66,43.68,92.58,3,Positive,Positive,3,21.06,1,Clicked,Inactive,90.12
+U0961,28-07-2023,Standard,97.97,9,3,48.4,16-04-2024,18,65.08,52.02,90.93,2,Positive,Neutral,3,54.56,1,Clicked,Active,83.08
+U0962,17-03-2023,Standard,24.18,3,17,74.4,22-06-2023,46,61.42,29.49,51.22,3,Positive,N/A,1,17.98,0,Not Clicked,Active,93.85
+U0963,13-07-2022,Standard,74.58,2,28,14.2,21-05-2023,5,33.41,1.53,36.01,5,Positive,Neutral,2,34.74,0,Not Clicked,Inactive,86.88
+U0964,16-12-2023,Standard,57.45,7,19,83.6,08-11-2024,15,81.79,22.01,46.5,2,Positive,Positive,1,93.14,0,Not Clicked,Active,86.87
+U0965,27-01-2023,Basic,66.33,7,14,112.2,21-05-2023,7,3.84,28.19,68.99,5,Positive,Positive,3,14.61,1,Not Clicked,Active,6.37
+U0966,26-01-2022,Basic,26.83,4,22,71.2,28-10-2022,47,87.08,44.36,88.4,1,Neutral,N/A,4,63.24,0,Clicked,Active,84.6
+U0967,11-03-2023,Premium,23.44,9,23,19.5,16-12-2023,17,51.27,17.11,20.7,3,Neutral,Negative,2,59.3,0,Clicked,Active,60.75
+U0968,22-06-2022,Basic,73.35,8,8,71.9,23-03-2023,47,39.83,87.33,91.82,4,Positive,Neutral,2,12.07,0,Clicked,Active,38.04
+U0969,27-10-2022,Basic,85.86,1,13,93.1,14-07-2023,42,49.72,70.49,81.52,2,Neutral,Positive,1,32.6,0,Not Clicked,Inactive,5.65
+U0970,07-10-2023,Basic,82.56,1,27,51.7,01-09-2024,38,66.74,8.52,97.89,3,Neutral,N/A,4,56.3,0,Clicked,Inactive,67.77
+U0971,22-11-2022,Basic,63.5,5,20,106.2,16-06-2023,48,1.28,65.01,88.03,4,Neutral,N/A,3,18.72,0,Not Clicked,Active,32.82
+U0972,14-02-2023,Premium,27.99,6,3,79.6,07-01-2024,48,87.16,65.37,27.99,1,Positive,Positive,0,80.06,0,Clicked,Inactive,46.78
+U0973,28-04-2022,Standard,75.04,3,5,108.4,24-11-2022,11,44.67,95.62,10.6,2,Neutral,Positive,3,97.22,0,Clicked,Active,68.17
+U0974,25-12-2023,Premium,39.35,9,9,76.7,26-07-2024,44,34.3,0.3,11.22,5,Positive,N/A,3,21.48,0,Not Clicked,Inactive,91.18
+U0975,13-08-2022,Standard,92.89,6,29,20.1,21-09-2022,9,13.82,24.79,29.12,1,Positive,N/A,4,18.69,0,Not Clicked,Active,82.54
+U0976,16-06-2023,Standard,87.06,4,6,40.6,11-07-2023,6,43.95,92.78,61.42,4,Positive,Negative,2,45.49,0,Not Clicked,Inactive,45.06
+U0977,23-04-2022,Basic,76.75,7,25,28.2,19-05-2022,45,49.63,93.21,80.43,2,Neutral,N/A,3,74.78,1,Not Clicked,Inactive,38.78
+U0978,20-05-2022,Standard,95.91,8,22,109.5,25-11-2022,0,40.36,72.06,89.93,2,Positive,Negative,2,28.16,0,Not Clicked,Active,23.98
+U0979,13-07-2023,Basic,22.51,9,2,92.4,03-10-2023,48,67.87,76.58,62.38,1,Positive,Positive,4,1.99,0,Not Clicked,Active,37.24
+U0980,01-01-2022,Premium,78.9,6,13,82.8,19-06-2022,35,42.09,9.15,0.56,2,Neutral,N/A,4,54.12,0,Not Clicked,Inactive,11.1
+U0981,31-03-2022,Premium,46.42,6,5,39.6,13-09-2022,20,96.14,51.39,18.63,4,Neutral,Negative,1,95.66,0,Clicked,Active,97.11
+U0982,16-10-2023,Basic,92.49,8,28,26.2,20-04-2024,36,59.93,23.16,9.97,1,Neutral,N/A,0,39.13,0,Not Clicked,Inactive,57.39
+U0983,16-11-2022,Premium,41.33,5,27,92,03-05-2023,23,80.75,18.12,36.33,5,Positive,Positive,4,42.01,0,Not Clicked,Inactive,12.78
+U0984,04-07-2023,Premium,77.99,3,25,59.5,17-04-2024,24,10.94,81.03,50.14,1,Positive,Neutral,4,96.89,0,Clicked,Active,35.28
+U0985,19-05-2022,Standard,90.21,3,8,31,02-01-2023,6,39.73,13.5,4.34,1,Neutral,N/A,2,69.46,0,Not Clicked,Inactive,54.7
+U0986,26-05-2023,Basic,23.33,6,23,75.9,30-08-2023,41,33.68,46.87,34.85,5,Positive,Neutral,4,71.92,0,Not Clicked,Inactive,53.29
+U0987,16-09-2022,Standard,51.81,2,1,9.6,01-10-2022,16,56.95,93.86,17.92,4,Neutral,Neutral,3,56.27,0,Clicked,Inactive,3.55
+U0988,04-11-2023,Standard,80.98,6,20,42.5,08-08-2024,28,86.11,18.58,64.71,3,Positive,N/A,1,97.46,0,Clicked,Active,95.08
+U0989,21-11-2023,Basic,56.39,6,12,58.9,03-04-2024,29,7.83,97.8,46.43,3,Negative,Neutral,1,68.89,0,Clicked,Active,27.54
+U0990,10-01-2022,Basic,41.38,8,23,22,04-02-2022,6,7.26,99.43,49.53,5,Positive,Negative,3,89.5,0,Not Clicked,Active,1.62
+U0991,18-09-2022,Standard,37.58,7,11,118.2,04-09-2023,32,85.03,55.56,42.77,4,Positive,N/A,4,69.94,0,Not Clicked,Inactive,7.64
+U0992,12-10-2023,Basic,30.52,8,7,29,23-10-2023,6,21.29,17.01,95.6,2,Neutral,Positive,0,73.51,0,Clicked,Inactive,58.02
+U0993,21-06-2022,Standard,88.57,9,15,20,31-08-2022,23,66.88,31.61,21.47,5,Positive,N/A,4,29.04,0,Not Clicked,Inactive,13.78
+U0994,13-01-2022,Premium,66.03,6,22,28.4,25-05-2022,10,54.29,42.45,51.67,3,Positive,N/A,1,30.35,0,Clicked,Active,4.17
+U0995,17-06-2022,Premium,26.11,3,24,93.4,30-09-2022,8,83.29,30.93,73.6,4,Neutral,Neutral,0,78.3,1,Not Clicked,Active,37.96
+U0996,04-10-2023,Basic,50.61,3,11,53.9,10-05-2024,11,12.51,28.06,55.68,1,Positive,Neutral,2,29.67,1,Clicked,Inactive,62.28
+U0997,19-08-2023,Premium,49.42,1,29,70,11-02-2024,34,12.98,97.22,92.9,4,Positive,N/A,2,56.28,0,Clicked,Inactive,11.18
+U0998,17-11-2022,Basic,34.54,5,22,7.4,25-08-2023,3,55.68,15.34,37.8,4,Positive,Positive,4,24.94,0,Not Clicked,Inactive,31.33
+U0999,15-11-2022,Basic,54.84,4,26,9,27-03-2023,35,94.64,73.33,46.37,3,Positive,Neutral,4,81.7,0,Clicked,Inactive,41.78
+U1000,05-09-2023,Standard,46.57,9,16,56.3,26-09-2023,27,41.5,0.04,8.85,3,Positive,Neutral,0,11.05,0,Clicked,Inactive,15.95
