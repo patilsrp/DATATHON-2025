@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - Real-Time Monitoring</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Chart.js for graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/wordcloud.min.js"></script> <!-- Word Cloud Library -->
+    <style>
+        body { background-color: #f8f9fa; }
+        .card { border-radius: 10px; padding: 20px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); }
+        #wordCloudCanvas { width: 100%; height: 250px; }
+        .alert-high-risk { background-color: #ffcccc; border-left: 5px solid red; padding: 10px; display: none; }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Admin Dashboard</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+                    <li class="nav-item"><a href="logout.html" class="nav-link">Logout</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Real-Time User Monitoring</h2>
+
+        <!-- Navigation Buttons -->
+        <div class="text-center mb-4">
+            <button class="btn btn-secondary" onclick="goToHome()">🏠 Back to Home</button>
+        </div>
+
+        <!-- Live User Activity Feed -->
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card">
+                    <h4>Live User Activity</h4>
+                    <ul id="activityFeed" class="list-group">
+                        <!-- Activities will be dynamically added here -->
+                    </ul>
+                </div>
+            </div>
+
+            <!-- User Sentiment Dashboard -->
+            <div class="col-md-6">
+                <div class="card">
+                    <h4>User Sentiment Dashboard</h4>
+                    <canvas id="sentimentChart"></canvas> <!-- Sentiment Trends Chart -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Word Cloud for Sentiments -->
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <h4>Feedback Word Cloud</h4>
+                    <canvas id="wordCloudCanvas"></canvas>
+                </div>
+            </div>
+
+            <!-- High-Risk User Alerts -->
+            <div class="col-md-6">
+                <div class="card">
+                    <h4>Custom Alerts & Notifications</h4>
+                    <div id="highRiskAlert" class="alert alert-high-risk">
+                        <strong>Warning!</strong> A high-risk user has been detected. Retention action needed.
+                    </div>
+                    <button class="btn btn-danger w-100" onclick="detectHighRisk()">Check High-Risk Users</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function goToHome() {
+            window.location.href = 'index.html'; // Redirect to home page
+        }
+
+        // Simulated User Activity Data
+        const activities = [
+            "User John logged in",
+            "User Sarah completed a course",
+            "User Mike left feedback",
+            "User Emma logged out",
+            "User James viewed the pricing page"
+        ];
+
+        function updateActivityFeed() {
+            const activityFeed = document.getElementById("activityFeed");
+            activityFeed.innerHTML = ""; // Clear previous entries
+            activities.forEach(activity => {
+                const li = document.createElement("li");
+                li.className = "list-group-item";
+                li.textContent = activity;
+                activityFeed.appendChild(li);
+            });
+        }
+
+        // Simulated Sentiment Data
+        const sentimentData = {
+            labels: ["Positive", "Negative", "Neutral"],
+            datasets: [{
+                label: "User Sentiment",
+                data: [65, 20, 15], // Example sentiment percentage
+                backgroundColor: ["#28a745", "#dc3545", "#ffc107"]
+            }]
+        };
+
+        function loadSentimentChart() {
+            new Chart(document.getElementById("sentimentChart"), {
+                type: "doughnut",
+                data: sentimentData
+            });
+        }
+
+        // Word Cloud Data (Simulated)
+        function loadWordCloud() {
+            const words = [
+                { text: "Amazing", weight: 10 },
+                { text: "Confusing", weight: 6 },
+                { text: "Engaging", weight: 8 },
+                { text: "Difficult", weight: 5 },
+                { text: "Helpful", weight: 9 },
+                { text: "Frustrating", weight: 4 }
+            ];
+            WordCloud(document.getElementById("wordCloudCanvas"), {
+                list: words.map(word => [word.text, word.weight])
+            });
+        }
+
+        // High-Risk User Detection
+        function detectHighRisk() {
+            const riskDetected = Math.random() < 0.5; // 50% chance of detecting high risk
+            if (riskDetected) {
+                document.getElementById("highRiskAlert").style.display = "block";
+            } else {
+                alert("No high-risk users detected.");
+            }
+        }
+
+        // Load Dashboard Data
+        updateActivityFeed();
+        loadSentimentChart();
+        loadWordCloud();
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
